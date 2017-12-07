@@ -1,0 +1,1002 @@
+index,OPEN_DT,OnTime_Status,SUBJECT,REASON,TYPE,neighborhood,neighborhood_services_district,LOCATION_ZIPCODE,Source
+0,2015-12-03 18:04:00,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston,5.0,2127.0,Constituent Call
+1,2015-04-23 11:25:15,ONTIME,Inspectional Services,Housing,Unsatisfactory Living Conditions,Mission Hill,14.0,2120.0,Constituent Call
+2,2015-08-21 12:35:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Mission Hill,14.0,2120.0,Citizens Connect App
+3,2015-06-09 11:31:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Mission Hill,14.0,2120.0,Self Service
+4,2015-03-19 09:13:25,OVERDUE,Public Works Department,Street Cleaning,Requests for Street Cleaning,Dorchester,8.0,2125.0,City Worker App
+5,2015-07-15 09:21:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Missing Sign,Boston,14.0,2115.0,City Worker App
+6,2015-11-09 11:23:37,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston,5.0,2127.0,Citizens Connect App
+7,2015-02-10 17:49:30,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston,5.0,2127.0,Constituent Call
+8,2015-01-20 07:17:58,ONTIME,Public Works Department,Highway Maintenance,PWD Graffiti,Boston,14.0,2115.0,City Worker App
+9,2015-01-05 09:56:38,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Charlestown,2.0,2129.0,Constituent Call
+10,2015-11-13 10:29:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Roxbury,6.0,2118.0,Citizens Connect App
+11,2015-03-16 14:56:50,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Dorchester,5.0,2125.0,Self Service
+12,2015-10-03 22:12:13,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston,5.0,2127.0,Citizens Connect App
+13,2015-07-13 17:33:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,7.0,2122.0,Constituent Call
+14,2015-07-30 10:24:00,ONTIME,Mayor's 24 Hour Hotline,Abandoned Bicycle,Abandoned Bicycle,Boston,14.0,2115.0,Constituent Call
+15,2015-02-19 22:50:00,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Boston,14.0,2115.0,Citizens Connect App
+16,2015-08-20 09:20:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Boston,14.0,2115.0,City Worker App
+17,2015-06-30 11:37:00,ONTIME,Inspectional Services,Environmental Services,Rodent Activity,Boston,14.0,2115.0,Constituent Call
+18,2015-03-30 17:21:50,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Dorchester,5.0,2125.0,Self Service
+19,2015-08-15 22:36:00,OVERDUE,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),Dorchester,7.0,2125.0,Citizens Connect App
+20,2015-02-13 19:18:36,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Allston,15.0,2134.0,Constituent Call
+21,2015-07-29 13:20:00,OVERDUE,Inspectional Services,Health,Unsanitary Conditions - Establishment,Boston,6.0,2116.0,Constituent Call
+22,2015-07-14 08:49:31,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,7.0,2122.0,Constituent Call
+23,2015-03-01 11:56:06,OVERDUE,Public Works Department,Street Cleaning,Requests for Street Cleaning,Allston,15.0,2134.0,Constituent Call
+24,2015-03-18 17:15:29,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Dorchester,5.0,2125.0,Self Service
+25,2015-08-24 16:25:20,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Boston,14.0,2115.0,Self Service
+26,2015-02-09 13:54:15,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston,5.0,2127.0,Constituent Call
+27,2015-09-09 18:12:56,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston,5.0,2127.0,Citizens Connect App
+28,2015-10-19 11:25:00,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,East Boston,1.0,2128.0,Twitter
+29,2015-09-09 12:53:03,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Boston,14.0,2115.0,Self Service
+30,2015-10-02 09:21:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Boston,3.0,2114.0,Constituent Call
+31,2015-03-25 13:28:58,ONTIME,Property Management,Graffiti,Graffiti Removal,Brighton,15.0,2135.0,Citizens Connect App
+32,2015-06-18 13:26:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Charlestown,2.0,2129.0,Employee Generated
+33,2015-01-20 09:06:08,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,South Boston,5.0,2127.0,Constituent Call
+34,2015-11-18 08:30:59,ONTIME,Inspectional Services,Building,Contractors Complaint,South Boston,5.0,2127.0,Constituent Call
+35,2015-03-05 09:08:59,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,South Boston,5.0,2127.0,Constituent Call
+36,2015-06-17 22:48:00,OVERDUE,Public Works Department,Street Lights,Major System Failure,South Boston,5.0,2127.0,Constituent Call
+37,2015-06-19 14:16:00,OVERDUE,Public Works Department,Street Lights,Major System Failure,South Boston,5.0,2127.0,Constituent Call
+38,2015-06-01 08:01:00,ONTIME,Property Management,Graffiti,Graffiti Removal,East Boston,1.0,2128.0,Citizens Connect App
+39,2015-03-23 18:00:44,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,South Boston,5.0,2127.0,City Worker App
+40,2015-05-07 07:56:41,OVERDUE,Public Works Department,Highway Maintenance,Empty Litter Basket,South Boston,5.0,2127.0,Self Service
+41,2015-04-09 13:02:06,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,South Boston,5.0,2127.0,City Worker App
+42,2015-05-27 14:35:00,OVERDUE,Inspectional Services,Building,Work w/out Permit,Brighton,15.0,2135.0,Constituent Call
+43,2015-09-23 16:12:24,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,South Boston,5.0,2127.0,Self Service
+44,2015-04-23 10:46:17,ONTIME,Public Works Department,Street Lights,Street Light Outages,South Boston,5.0,2127.0,Citizens Connect App
+45,2015-06-12 02:57:00,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Boston,14.0,2115.0,City Worker App
+46,2015-08-13 12:10:00,ONTIME,Inspectional Services,Environmental Services,Trash on Vacant Lot,Dorchester,8.0,2125.0,Self Service
+47,2015-11-07 12:58:00,ONTIME,Animal Control,Animal Issues,Animal Generic Request,South Boston,5.0,2127.0,Constituent Call
+48,2015-08-26 19:10:58,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston,5.0,2127.0,Citizens Connect App
+49,2015-11-08 07:57:02,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,Dorchester,7.0,2124.0,City Worker App
+50,2015-11-24 22:09:58,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston,5.0,2127.0,Citizens Connect App
+51,2015-01-19 07:49:12,OVERDUE,Public Works Department,Highway Maintenance,Empty Litter Basket,South Boston,5.0,2127.0,Constituent Call
+52,2015-10-03 22:14:00,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston,5.0,2127.0,Citizens Connect App
+53,2015-08-02 11:00:25,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,South Boston,5.0,2127.0,Constituent Call
+54,2015-08-06 08:33:21,ONTIME,Mayor's 24 Hour Hotline,Needle Program,Needle Pickup,South Boston,5.0,2127.0,Citizens Connect App
+55,2015-11-22 12:39:51,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston,5.0,2127.0,Citizens Connect App
+56,2015-05-14 03:51:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Boston,14.0,2215.0,Citizens Connect App
+57,2015-05-18 08:10:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,South Boston,5.0,2127.0,Employee Generated
+58,2015-07-20 08:16:00,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,Boston,3.0,2113.0,Citizens Connect App
+59,2015-11-30 10:00:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Boston,3.0,2113.0,Constituent Call
+60,2015-02-02 10:40:13,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Roslindale,10.0,2131.0,Self Service
+61,2015-12-14 09:27:00,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston,5.0,2127.0,Constituent Call
+62,2015-07-08 10:28:00,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Abandoned Vehicles,Dorchester,7.0,2125.0,Self Service
+63,2015-01-10 15:40:26,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,South Boston,5.0,2127.0,Citizens Connect App
+64,2015-03-12 16:36:14,ONTIME,Property Management,Graffiti,Graffiti Removal,Allston,15.0,2134.0,Self Service
+65,2015-11-07 08:18:24,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston,5.0,2127.0,Citizens Connect App
+66,2015-08-14 10:30:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2122.0,Constituent Call
+67,2015-01-29 13:10:38,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,7.0,2122.0,Constituent Call
+68,2015-06-22 10:46:00,ONTIME,Inspectional Services,Housing,Mice Infestation - Residential,Allston,15.0,2134.0,Constituent Call
+69,2015-02-05 14:20:00,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston,5.0,2127.0,Self Service
+70,2015-02-10 18:09:34,ONTIME,Public Works Department,Administrative & General Requests,Misc. Snow Complaint,South Boston,5.0,2127.0,Constituent Call
+71,2015-03-05 20:54:00,OVERDUE,Public Works Department,Street Lights,Street Light Outages,Boston,3.0,2113.0,Self Service
+72,2015-02-17 19:40:37,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston,5.0,2127.0,Constituent Call
+73,2015-09-28 13:47:12,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Boston,14.0,2115.0,Self Service
+74,2015-11-10 14:05:00,ONTIME,Public Works Department,Highway Maintenance,PWD Graffiti,Boston,14.0,2115.0,Citizens Connect App
+75,2015-09-01 08:42:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Jamaica Plain,11.0,2130.0,Constituent Call
+76,2015-05-01 15:41:15,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,9.0,2124.0,Constituent Call
+77,2015-02-05 12:37:36,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston,5.0,2127.0,Constituent Call
+78,2015-04-22 15:45:27,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,9.0,2124.0,Constituent Call
+79,2015-08-01 07:43:00,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),East Boston,1.0,2128.0,Constituent Call
+80,2015-01-06 08:49:40,ONTIME,Inspectional Services,Health,Food Alert - Unconfirmed,,,,Constituent Call
+81,2015-05-13 09:39:29,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Hyde Park,10.0,,City Worker App
+82,2015-05-10 20:51:23,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Roxbury,13.0,2119.0,Self Service
+83,2015-12-01 11:30:45,ONTIME,Disability Department,Disability,Call Log,,,,Constituent Call
+84,2015-08-26 15:14:05,OVERDUE,Public Works Department,Street Cleaning,Requests for Street Cleaning,East Boston,1.0,2128.0,Citizens Connect App
+85,2015-10-06 06:51:54,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Allston / Brighton,15.0,2135.0,Self Service
+86,2015-02-05 15:27:54,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston,5.0,2127.0,Constituent Call
+87,2015-05-14 12:23:45,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,9.0,2124.0,Constituent Call
+88,2015-01-29 21:55:11,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston,5.0,2127.0,Constituent Call
+89,2015-04-22 15:46:11,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,9.0,2124.0,Constituent Call
+90,2015-11-23 18:23:00,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Boston,14.0,2115.0,Citizens Connect App
+91,2015-10-27 16:13:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,9.0,2124.0,Constituent Call
+92,2015-04-12 15:11:10,ONTIME,Property Management,Graffiti,Graffiti Removal,Back Bay,6.0,2116.0,Citizens Connect App
+93,2015-07-25 11:15:00,ONTIME,Public Works Department,Highway Maintenance,Roadway Repair,West Roxbury,12.0,2132.0,Constituent Call
+94,2015-09-14 11:28:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,9.0,2124.0,Constituent Call
+95,2015-02-24 09:11:31,ONTIME,Inspectional Services,Building,Building Inspection Request,Jamaica Plain,11.0,2130.0,Self Service
+96,2015-02-09 14:04:51,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,9.0,,Constituent Call
+97,2015-11-13 09:17:00,ONTIME,Inspectional Services,Housing,Unsatisfactory Living Conditions,Fenway / Kenmore / Audubon Circle / Longwood,14.0,2115.0,Constituent Call
+98,2015-05-19 13:57:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Roxbury,13.0,2119.0,Constituent Call
+99,2015-01-27 20:47:50,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Charlestown,2.0,2129.0,Constituent Call
+100,2015-12-04 15:49:03,ONTIME,Civil Rights,Call Inquiry,OCR Front Desk Interactions,,,,Constituent Call
+101,2015-06-10 10:14:07,ONTIME,Public Works Department,Highway Maintenance,News Boxes,Back Bay,6.0,,City Worker App
+102,2015-06-20 14:51:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Allston / Brighton,15.0,2134.0,Citizens Connect App
+103,2015-09-25 09:18:00,ONTIME,Mayor's 24 Hour Hotline,Abandoned Bicycle,Abandoned Bicycle,South End,4.0,2118.0,Employee Generated
+104,2015-08-12 13:44:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,7.0,2124.0,Constituent Call
+105,2015-02-02 16:49:03,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,5.0,2125.0,Constituent Call
+106,2015-02-22 10:43:12,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,7.0,,Self Service
+107,2015-08-14 15:54:00,ONTIME,Public Works Department,Highway Maintenance,Work Hours-Loud Noise Complaints,Downtown / Financial District,3.0,,Constituent Call
+108,2015-03-20 14:38:58,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),Roslindale,10.0,2131.0,Employee Generated
+109,2015-02-09 01:11:28,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Roxbury,13.0,,Constituent Call
+110,2015-02-05 10:08:57,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Hyde Park,10.0,2136.0,Constituent Call
+111,2015-02-18 08:08:44,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2119.0,Citizens Connect App
+112,2015-03-31 08:45:34,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,East Boston,1.0,2128.0,Constituent Call
+113,2015-01-06 15:16:02,OVERDUE,Public Works Department,Street Lights,Major System Failure,Hyde Park,10.0,2136.0,Constituent Call
+114,2015-08-25 13:43:00,ONTIME,Inspectional Services,Housing,Unsatisfactory Living Conditions,Roslindale,10.0,2131.0,Constituent Call
+115,2015-12-10 08:38:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Hyde Park,10.0,2126.0,Constituent Call
+116,2015-10-29 01:16:00,OVERDUE,Public Works Department,Highway Maintenance,PWD Graffiti,Dorchester,7.0,2125.0,Citizens Connect App
+117,2015-07-09 09:54:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,8.0,2125.0,Constituent Call
+118,2015-04-24 15:14:42,ONTIME,Civil Rights,Call Inquiry,OCR Front Desk Interactions,,,,Constituent Call
+119,2015-02-21 13:10:09,ONTIME,Transportation - Traffic Division,Signs & Signals,Traffic Signal Repair,Roslindale,10.0,,Constituent Call
+120,2015-12-03 16:14:00,ONTIME,Mayor's 24 Hour Hotline,Abandoned Bicycle,Abandoned Bicycle,Allston / Brighton,14.0,2134.0,Citizens Connect App
+121,2015-09-14 18:04:12,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Back Bay,14.0,,Citizens Connect App
+122,2015-08-04 13:54:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,East Boston,1.0,2128.0,Constituent Call
+123,2015-02-23 13:35:54,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Mission Hill,14.0,2120.0,Constituent Call
+124,2015-02-03 10:05:12,ONTIME,Public Works Department,Administrative & General Requests,Misc. Snow Complaint,Dorchester,7.0,2124.0,Constituent Call
+125,2015-08-18 12:52:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+126,2015-04-23 10:45:14,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Allston / Brighton,15.0,,City Worker App
+127,2015-07-17 09:25:14,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),West Roxbury,12.0,2132.0,Employee Generated
+128,2015-04-27 07:22:54,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair,Charlestown,2.0,2129.0,Employee Generated
+129,2015-05-12 14:33:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Allston / Brighton,15.0,2135.0,Constituent Call
+130,2015-09-09 10:43:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Allston / Brighton,15.0,2135.0,Constituent Call
+131,2015-08-03 14:46:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,8.0,2124.0,Constituent Call
+132,2015-11-16 11:20:37,ONTIME,Public Works Department,Street Cleaning,CE Collection,Mission Hill,11.0,,City Worker App
+133,2015-02-27 06:02:38,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston / South Boston Waterfront,5.0,,Constituent Call
+134,2015-07-23 10:29:00,OVERDUE,Transportation - Traffic Division,Signs & Signals,Sign Repair,Allston / Brighton,15.0,,Citizens Connect App
+135,2015-02-13 18:16:06,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Jamaica Plain,11.0,,Citizens Connect App
+136,2015-07-02 15:27:30,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,,,,Employee Generated
+137,2015-03-30 11:48:41,ONTIME,Boston Water & Sewer Commission,Fire Hydrant,Fire Hydrant,Roxbury,13.0,2119.0,Constituent Call
+138,2015-02-04 18:15:00,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Mission Hill,11.0,2120.0,Constituent Call
+139,2015-02-05 07:17:40,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Charlestown,2.0,2129.0,Constituent Call
+140,2015-04-21 10:05:42,ONTIME,Transportation - Traffic Division,Signs & Signals,Missing Sign,Allston / Brighton,15.0,,Constituent Call
+141,2015-05-27 13:17:00,ONTIME,Inspectional Services,Building,Contractors Complaint,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+142,2015-05-26 20:27:00,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Dorchester,7.0,2124.0,Constituent Call
+143,2015-06-23 11:48:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Missing Sign,Roxbury,13.0,,City Worker App
+144,2015-10-08 07:23:23,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,East Boston,1.0,2128.0,City Worker App
+145,2015-09-24 08:02:00,ONTIME,Public Works Department,Highway Maintenance,Utility Call-In,Allston / Brighton,15.0,2135.0,Constituent Call
+146,2015-10-29 18:52:45,OVERDUE,Transportation - Traffic Division,Signs & Signals,Traffic Signal Inspection,East Boston,1.0,,Citizens Connect App
+147,2015-02-12 11:24:29,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston / South Boston Waterfront,5.0,2127.0,Citizens Connect App
+148,2015-02-06 21:24:58,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,South End,6.0,2116.0,Constituent Call
+149,2015-10-28 14:29:00,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Equipment Repair,Jamaica Plain,11.0,2130.0,Employee Generated
+150,2015-09-15 08:54:30,ONTIME,Public Works Department,Street Cleaning,CE Collection,South Boston / South Boston Waterfront,5.0,2127.0,City Worker App
+151,2015-06-17 12:20:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Jamaica Plain,11.0,,City Worker App
+152,2015-04-13 16:00:00,ONTIME,Public Works Department,Highway Maintenance,Roadway Repair,Allston / Brighton,15.0,2134.0,Constituent Call
+153,2015-03-30 14:10:12,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,Back Bay,14.0,2116.0,Constituent Call
+154,2015-03-09 10:13:41,OVERDUE,Public Works Department,Sanitation,Space Savers,Downtown / Financial District,3.0,2113.0,Constituent Call
+155,2015-07-20 09:49:31,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Dorchester,7.0,2124.0,City Worker App
+156,2015-08-03 11:37:00,OVERDUE,Inspectional Services,Building,Illegal Occupancy,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+157,2015-05-19 07:31:00,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,Dorchester,9.0,2124.0,Constituent Call
+158,2015-02-27 09:53:17,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Roxbury,13.0,2125.0,Constituent Call
+159,2015-08-03 15:24:19,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Jamaica Plain,11.0,2130.0,Self Service
+160,2015-06-12 08:27:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Boston,14.0,2116.0,Constituent Call
+161,2015-02-16 11:46:36,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,7.0,2122.0,Constituent Call
+162,2015-10-20 08:30:00,ONTIME,Inspectional Services,Building,Building Inspection Request,Back Bay,6.0,2116.0,Constituent Call
+163,2015-07-13 10:38:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,South Boston / South Boston Waterfront,5.0,2127.0,Employee Generated
+164,2015-02-03 09:09:15,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Beacon Hill,14.0,,Constituent Call
+165,2015-11-18 13:49:08,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,South End,6.0,2116.0,City Worker App
+166,2015-06-23 08:45:00,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Allston / Brighton,15.0,2135.0,City Worker App
+167,2015-08-06 12:48:26,ONTIME,Civil Rights,Call Inquiry,OCR Front Desk Interactions,,,,Constituent Call
+168,2015-02-14 18:23:48,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2125.0,Constituent Call
+169,2015-07-15 14:30:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2126.0,Constituent Call
+170,2015-07-08 08:51:48,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Greater Mattapan,9.0,2124.0,Self Service
+171,2015-05-13 14:41:15,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair,Fenway / Kenmore / Audubon Circle / Longwood,14.0,2115.0,City Worker App
+172,2015-11-12 09:41:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Hyde Park,9.0,2126.0,Constituent Call
+173,2015-09-04 15:07:44,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,South End,6.0,2118.0,Citizens Connect App
+174,2015-02-09 16:56:36,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Jamaica Plain,10.0,2130.0,Self Service
+175,2015-09-01 08:30:00,OVERDUE,Public Works Department,Street Cleaning,Requests for Street Cleaning,Allston / Brighton,15.0,2135.0,Constituent Call
+176,2015-11-02 16:11:00,ONTIME,Public Works Department,Street Lights,General Lighting Request,Mission Hill,14.0,,Employee Generated
+177,2015-10-30 03:56:45,ONTIME,Public Works Department,Highway Maintenance,PWD Graffiti,South Boston / South Boston Waterfront,5.0,,City Worker App
+178,2015-09-28 16:17:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,7.0,2124.0,Constituent Call
+179,2015-07-08 12:54:00,ONTIME,Inspectional Services,Building,Working Beyond Hours,South Boston / South Boston Waterfront,5.0,,Constituent Call
+180,2015-01-08 14:06:50,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Back Bay,6.0,2116.0,Constituent Call
+181,2015-10-14 13:24:00,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,South End,6.0,2116.0,Constituent Call
+182,2015-02-02 17:14:00,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Charlestown,2.0,2129.0,Constituent Call
+183,2015-02-04 15:52:25,ONTIME,Inspectional Services,Building,Egress,Back Bay,14.0,2116.0,Constituent Call
+184,2015-01-23 08:46:24,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,9.0,2124.0,Constituent Call
+185,2015-02-10 15:53:36,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Jamaica Plain,11.0,2130.0,Citizens Connect App
+186,2015-05-12 09:58:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Roslindale,10.0,,Citizens Connect App
+187,2015-09-24 15:13:05,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Beacon Hill,14.0,2114.0,Citizens Connect App
+188,2015-02-21 10:26:11,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Hyde Park,10.0,,Constituent Call
+189,2015-12-31 12:06:28,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Jamaica Plain,11.0,2130.0,Citizens Connect App
+190,2015-06-02 14:26:10,ONTIME,City Hall Truck,Administration,Checkin,,,,Constituent Call
+191,2015-06-01 10:18:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Greater Mattapan,9.0,2124.0,Constituent Call
+192,2015-10-15 13:46:00,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Ground Maintenance,Roxbury,13.0,2119.0,Employee Generated
+193,2015-02-09 08:25:29,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roslindale,10.0,2131.0,Constituent Call
+194,2015-09-23 08:41:00,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,Jamaica Plain,11.0,2130.0,Constituent Call
+195,2015-11-19 10:55:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Jamaica Plain,11.0,2130.0,City Worker App
+196,2015-08-04 16:17:00,ONTIME,Parks & Recreation Department,Trees,Tree Emergencies,Dorchester,7.0,2124.0,Constituent Call
+197,2015-11-19 12:43:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,South End,6.0,2118.0,Constituent Call
+198,2015-02-26 10:39:15,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Jamaica Plain,11.0,,City Worker App
+199,2015-03-31 07:19:59,ONTIME,Inspectional Services,Environmental Services,Rodent Activity,Dorchester,5.0,2125.0,Constituent Call
+200,2015-08-13 09:10:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,8.0,2125.0,Constituent Call
+201,2015-08-06 19:00:00,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+202,2015-01-28 18:05:15,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Charlestown,2.0,2129.0,Constituent Call
+203,2015-08-07 09:17:00,OVERDUE,Inspectional Services,Building,Electrical,Dorchester,9.0,2124.0,Constituent Call
+204,2015-06-14 10:47:50,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Back Bay,6.0,2116.0,Citizens Connect App
+205,2015-08-10 20:00:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,9.0,2124.0,Constituent Call
+206,2015-01-29 18:24:33,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2121.0,Constituent Call
+207,2015-01-29 10:34:51,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+208,2015-06-11 20:00:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,7.0,2122.0,Constituent Call
+209,2015-02-10 08:24:57,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,West Roxbury,12.0,2132.0,Constituent Call
+210,2015-03-20 22:20:45,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston / South Boston Waterfront,5.0,,Citizens Connect App
+211,2015-07-27 09:20:00,OVERDUE,Transportation - Traffic Division,Signs & Signals,Sign Repair,Jamaica Plain,11.0,,Constituent Call
+212,2015-01-31 16:50:08,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2125.0,Constituent Call
+213,2015-06-01 10:16:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,7.0,2126.0,Constituent Call
+214,2015-05-13 13:57:29,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,Charlestown,2.0,2129.0,Self Service
+215,2015-09-13 11:36:56,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Dorchester,7.0,,Citizens Connect App
+216,2015-04-01 07:39:56,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,9.0,2124.0,Constituent Call
+217,2015-02-17 17:31:06,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Hyde Park,10.0,2136.0,Self Service
+218,2015-03-20 09:51:39,ONTIME,Property Management,Graffiti,Graffiti Removal,Downtown / Financial District,6.0,,Citizens Connect App
+219,2015-03-30 08:13:43,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Abandoned Vehicles,Hyde Park,10.0,2136.0,Employee Generated
+220,2015-01-30 12:16:18,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Boston,6.0,2116.0,Constituent Call
+221,2015-03-18 18:09:26,ONTIME,Public Works Department,Sanitation,Space Savers,Dorchester,7.0,2122.0,Constituent Call
+222,2015-06-06 16:37:12,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,South Boston / South Boston Waterfront,5.0,2127.0,Self Service
+223,2015-09-02 10:09:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Allston,15.0,2134.0,Constituent Call
+224,2015-07-14 09:56:54,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,South Boston / South Boston Waterfront,5.0,,City Worker App
+225,2015-09-21 09:47:05,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Beacon Hill,14.0,2108.0,Citizens Connect App
+226,2015-05-08 08:49:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Roxbury,13.0,2121.0,Constituent Call
+227,2015-12-17 11:24:04,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,Roxbury,13.0,,City Worker App
+228,2015-02-21 13:50:41,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Jamaica Plain,10.0,,Constituent Call
+229,2015-02-04 15:52:29,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+230,2015-03-30 18:30:12,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,Downtown / Financial District,3.0,2108.0,Citizens Connect App
+231,2015-01-21 15:47:05,ONTIME,Public Works Department,Street Lights,Street Light Outages,South Boston / South Boston Waterfront,5.0,2127.0,Employee Generated
+232,2015-04-07 07:36:34,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,Roxbury,13.0,2125.0,Constituent Call
+233,2015-03-30 13:29:58,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Abandoned Vehicles,Roxbury,13.0,,Constituent Call
+234,2015-02-06 13:47:27,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,West Roxbury,12.0,2132.0,Self Service
+235,2015-12-11 08:16:00,ONTIME,Inspectional Services,Building,Plumbing,Boston,5.0,2210.0,Constituent Call
+236,2015-09-04 12:03:00,OVERDUE,Transportation - Traffic Division,Signs & Signals,Traffic Signal Inspection,Back Bay,14.0,,Constituent Call
+237,2015-09-28 14:03:00,ONTIME,Inspectional Services,Health,Unsanitary Conditions - Establishment,Downtown / Financial District,4.0,,Constituent Call
+238,2015-10-26 12:27:48,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Jamaica Plain,11.0,2130.0,Citizens Connect App
+239,2015-08-31 18:44:00,OVERDUE,Parks & Recreation Department,Park Maintenance & Safety,Equipment Repair,Dorchester,7.0,2125.0,Citizens Connect App
+240,2015-02-13 22:09:27,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Allston / Brighton,15.0,2135.0,Self Service
+241,2015-12-22 18:06:00,ONTIME,Public Works Department,Highway Maintenance,Utility Call-In,Beacon Hill,14.0,2108.0,Constituent Call
+242,2015-02-04 08:49:48,ONTIME,Mayor's 24 Hour Hotline,Employee & General Comments,General Comments For a Program or Policy,,,,Constituent Call
+243,2015-04-25 09:23:36,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Hyde Park,10.0,2136.0,Constituent Call
+244,2015-10-28 11:53:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Roxbury,13.0,2120.0,Constituent Call
+245,2015-07-28 16:26:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Jamaica Plain,11.0,2119.0,Constituent Call
+246,2015-04-22 09:32:36,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Greater Mattapan,9.0,2124.0,City Worker App
+247,2015-02-05 07:47:42,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Allston / Brighton,15.0,2135.0,Constituent Call
+248,2015-10-13 11:49:39,ONTIME,Inspectional Services,Environmental Services,Rodent Activity,Dorchester,8.0,2124.0,Constituent Call
+249,2015-12-11 11:43:00,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,Back Bay,14.0,2115.0,Constituent Call
+250,2015-07-28 22:55:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Charlestown,2.0,2129.0,Constituent Call
+251,2015-08-14 09:47:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Dorchester,7.0,2124.0,Constituent Call
+252,2015-02-10 20:44:25,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Hyde Park,9.0,,Self Service
+253,2015-09-03 13:23:13,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2125.0,Citizens Connect App
+254,2015-02-02 15:37:31,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Charlestown,2.0,2129.0,Constituent Call
+255,2015-03-31 19:32:18,ONTIME,Mayor's 24 Hour Hotline,Notification,Notification,East Boston,1.0,2128.0,Constituent Call
+256,2015-10-27 14:52:48,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair (Internal),West Roxbury,12.0,2132.0,Employee Generated
+257,2015-05-15 14:55:18,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,West Roxbury,12.0,,Self Service
+258,2015-08-31 00:48:00,ONTIME,Parks & Recreation Department,Trees,Tree Emergencies,Dorchester,8.0,2124.0,Constituent Call
+259,2015-05-26 16:06:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Beacon Hill,14.0,2114.0,Self Service
+260,2015-10-22 12:00:00,ONTIME,Inspectional Services,Building,Building Inspection Request,Boston,3.0,2110.0,Constituent Call
+261,2015-01-09 14:04:38,OVERDUE,Public Works Department,Street Lights,Street Light Outages,Allston / Brighton,15.0,2135.0,Self Service
+262,2015-03-26 09:42:04,ONTIME,Transportation - Traffic Division,Signs & Signals,Missing Sign,East Boston,1.0,2128.0,City Worker App
+263,2015-01-02 08:30:55,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,South Boston / South Boston Waterfront,5.0,2127.0,Citizens Connect App
+264,2015-05-27 17:14:09,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Hyde Park,10.0,2136.0,Self Service
+265,2015-09-01 11:47:00,OVERDUE,Inspectional Services,Building,Work w/out Permit,South End,6.0,2116.0,Constituent Call
+266,2015-01-22 09:12:36,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Dorchester,9.0,2124.0,City Worker App
+267,2015-07-29 13:46:00,OVERDUE,Inspectional Services,Building,Electrical,Dorchester,7.0,2122.0,Constituent Call
+268,2015-04-06 07:07:11,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Allston / Brighton,15.0,,Constituent Call
+269,2015-04-28 15:07:23,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),West Roxbury,12.0,2132.0,Employee Generated
+270,2015-02-10 11:22:50,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Mission Hill,14.0,2120.0,Self Service
+271,2015-02-13 15:02:41,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,East Boston,1.0,2128.0,Constituent Call
+272,2015-03-01 17:30:59,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Boston,14.0,2215.0,Self Service
+273,2015-09-03 06:48:01,ONTIME,Mayor's 24 Hour Hotline,Abandoned Bicycle,Abandoned Bicycle,Jamaica Plain,11.0,,Citizens Connect App
+274,2015-02-20 16:20:18,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Dorchester,7.0,2124.0,Self Service
+275,2015-04-13 12:02:09,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Allston / Brighton,15.0,,City Worker App
+276,2015-06-26 12:36:00,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Abandoned Vehicles,Allston / Brighton,15.0,2135.0,Constituent Call
+277,2015-08-17 14:02:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,West Roxbury,12.0,2132.0,Constituent Call
+278,2015-02-20 12:14:59,OVERDUE,Inspectional Services,Building,Unsafe Dangerous Conditions,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+279,2015-02-12 10:48:32,ONTIME,Inspectional Services,Housing,Heat - Excessive  Insufficient,Roxbury,13.0,2119.0,Constituent Call
+280,2015-06-22 08:02:00,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair,Jamaica Plain,11.0,2130.0,Employee Generated
+281,2015-02-17 15:05:57,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+282,2015-09-26 12:57:51,ONTIME,Transportation - Traffic Division,Signs & Signals,Traffic Signal Inspection,Dorchester,7.0,,Citizens Connect App
+283,2015-02-12 08:10:06,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Roslindale,10.0,2131.0,Constituent Call
+284,2015-10-30 11:23:00,ONTIME,Parks & Recreation Department,Trees,Tree Emergencies,Roxbury,13.0,,Constituent Call
+285,2015-02-13 08:43:55,ONTIME,Inspectional Services,Housing,Unsatisfactory Living Conditions,South End,6.0,2118.0,Constituent Call
+286,2015-02-28 14:30:45,OVERDUE,Public Works Department,Street Lights,Street Light Outages,Hyde Park,10.0,,Citizens Connect App
+287,2015-11-16 11:35:00,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Equipment Repair,Roxbury,6.0,2118.0,Citizens Connect App
+288,2015-10-09 13:58:00,ONTIME,Mayor's 24 Hour Hotline,Employee & General Comments,General Comments For a Program or Policy,Beacon Hill,14.0,2114.0,Constituent Call
+289,2015-01-30 15:15:06,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Back Bay,14.0,2115.0,Constituent Call
+290,2015-04-20 17:21:45,ONTIME,Public Works Department,Street Lights,Street Light Outages,Charlestown,2.0,,Citizens Connect App
+291,2015-08-18 12:15:00,ONTIME,Public Works Department,Recycling,Sticker Request,West Roxbury,12.0,2132.0,Constituent Call
+292,2015-11-17 12:18:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Greater Mattapan,8.0,2121.0,Constituent Call
+293,2015-02-01 13:30:08,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,East Boston,1.0,2128.0,Citizens Connect App
+294,2015-03-01 07:27:13,OVERDUE,Public Works Department,Street Cleaning,Requests for Street Cleaning,South Boston / South Boston Waterfront,5.0,2127.0,Citizens Connect App
+295,2015-08-31 16:20:01,ONTIME,Civil Rights,Call Inquiry,OCR Front Desk Interactions,,,,Constituent Call
+296,2015-10-01 20:52:00,ONTIME,Public Works Department,Street Lights,Street Light Knock Downs,South Boston / South Boston Waterfront,5.0,,Constituent Call
+297,2015-07-09 09:46:01,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Dorchester,7.0,2122.0,City Worker App
+298,2015-05-22 08:56:34,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Roslindale,10.0,,City Worker App
+299,2015-02-08 18:25:51,ONTIME,Public Works Department,Administrative & General Requests,Misc. Snow Complaint,Back Bay,14.0,2116.0,Constituent Call
+300,2015-09-05 18:08:00,ONTIME,Boston Water & Sewer Commission,Fire Hydrant,Fire Hydrant,Hyde Park,10.0,2136.0,Constituent Call
+301,2015-02-10 11:35:02,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,East Boston,1.0,2128.0,Constituent Call
+302,2015-09-28 14:46:27,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),Hyde Park,10.0,2131.0,Employee Generated
+303,2015-03-11 13:53:04,ONTIME,Public Works Department,Administrative & General Requests,Public Works General Request,Roslindale,10.0,2131.0,Constituent Call
+304,2015-02-26 05:07:15,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,,Constituent Call
+305,2015-03-20 15:02:22,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),Jamaica Plain,11.0,2130.0,Employee Generated
+306,2015-05-18 11:58:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Roxbury,13.0,2125.0,Constituent Call
+307,2015-01-08 10:00:23,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+308,2015-03-26 15:06:55,OVERDUE,Public Works Department,Recycling,Recycling Cart Return,Dorchester,7.0,2125.0,Constituent Call
+309,2015-10-05 10:32:29,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,East Boston,1.0,2128.0,City Worker App
+310,2015-03-05 07:59:31,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Back Bay,14.0,,Constituent Call
+311,2015-01-06 09:44:25,ONTIME,Parks & Recreation Department,Administrative & General Requests,Parks General Request,Beacon Hill,14.0,2108.0,Constituent Call
+312,2015-03-13 10:39:22,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),Jamaica Plain,11.0,2130.0,Employee Generated
+313,2015-07-30 18:47:00,OVERDUE,Transportation - Traffic Division,Signs & Signals,Traffic Signal Inspection,Fenway / Kenmore / Audubon Circle / Longwood,14.0,,Constituent Call
+314,2015-05-05 17:26:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Roxbury,13.0,2121.0,Constituent Call
+315,2015-04-10 15:01:56,ONTIME,Boston Water & Sewer Commission,Administrative & General Requests,BWSC General Request,South End,6.0,2118.0,Constituent Call
+316,2015-03-18 14:26:09,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),West Roxbury,12.0,2132.0,Employee Generated
+317,2015-06-05 11:10:37,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,,,,Constituent Call
+318,2015-09-08 16:01:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,7.0,2126.0,Constituent Call
+319,2015-04-22 08:05:04,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Hyde Park,10.0,2136.0,City Worker App
+320,2015-10-30 15:09:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Back Bay,14.0,2115.0,Constituent Call
+321,2015-03-09 14:41:33,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Beacon Hill,14.0,2114.0,Constituent Call
+322,2015-12-02 13:42:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,8.0,2124.0,Constituent Call
+323,2015-08-05 07:45:18,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),Roxbury,13.0,2119.0,City Worker App
+324,2015-03-17 20:26:57,OVERDUE,Public Works Department,Street Lights,Street Light Outages,Downtown / Financial District,3.0,2108.0,Citizens Connect App
+325,2015-02-07 13:55:25,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,5.0,2125.0,Constituent Call
+326,2015-01-28 13:03:34,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2125.0,Constituent Call
+327,2015-04-29 10:20:01,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Hyde Park,10.0,,City Worker App
+328,2015-10-01 08:11:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Roslindale,10.0,2131.0,Constituent Call
+329,2015-02-14 14:16:02,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Jamaica Plain,11.0,2119.0,Constituent Call
+330,2015-10-28 18:34:00,ONTIME,Mayor's 24 Hour Hotline,Notification,Notification,Roslindale,10.0,2131.0,Constituent Call
+331,2015-01-08 15:44:12,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2125.0,Constituent Call
+332,2015-10-13 09:28:03,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2122.0,Self Service
+333,2015-09-23 13:44:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,Roxbury,13.0,2118.0,Citizens Connect App
+334,2015-11-17 17:03:30,ONTIME,Public Works Department,Street Cleaning,CE Collection,Beacon Hill,14.0,2114.0,City Worker App
+335,2015-05-14 11:54:00,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Roslindale,10.0,2131.0,Constituent Call
+336,2015-09-16 06:50:00,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Ground Maintenance,Dorchester,7.0,2125.0,Citizens Connect App
+337,2015-01-28 09:59:58,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South End,6.0,2116.0,Constituent Call
+338,2015-04-08 11:31:16,OVERDUE,Transportation - Traffic Division,Signs & Signals,Sign Repair,Jamaica Plain,11.0,2130.0,City Worker App
+339,2015-03-18 13:52:22,OVERDUE,Public Works Department,Street Cleaning,Requests for Street Cleaning,Charlestown,2.0,,Constituent Call
+340,2015-09-21 07:24:02,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Jamaica Plain,10.0,,Constituent Call
+341,2015-04-04 22:06:05,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Downtown / Financial District,3.0,2108.0,City Worker App
+342,2015-02-18 15:20:41,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roslindale,10.0,,Citizens Connect App
+343,2015-02-26 16:06:19,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+344,2015-12-08 13:30:00,ONTIME,Inspectional Services,Housing,Pest Infestation - Residential,Allston / Brighton,15.0,2135.0,Citizens Connect App
+345,2015-01-13 12:14:28,ONTIME,Inspectional Services,Building,Building Inspection Request,Jamaica Plain,11.0,2130.0,Constituent Call
+346,2015-05-22 08:33:00,ONTIME,Inspectional Services,Building,Electrical,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+347,2015-03-18 11:50:26,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston / South Boston Waterfront,5.0,2210.0,Citizens Connect App
+348,2015-02-21 17:04:19,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Charlestown,2.0,2129.0,Citizens Connect App
+349,2015-03-24 16:12:14,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,8.0,2125.0,Constituent Call
+350,2015-05-29 20:08:18,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),Back Bay,14.0,,Citizens Connect App
+351,2015-11-23 19:05:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Downtown / Financial District,6.0,2116.0,Constituent Call
+352,2015-01-21 13:17:24,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,West Roxbury,12.0,2467.0,City Worker App
+353,2015-07-23 17:00:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Dorchester,7.0,2124.0,Constituent Call
+354,2015-02-14 14:16:49,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,,Constituent Call
+355,2015-06-18 09:38:00,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Dorchester,8.0,,Constituent Call
+356,2015-11-14 20:19:00,ONTIME,Inspectional Services,Housing,Squalid Living Conditions,Allston / Brighton,15.0,2135.0,Constituent Call
+357,2015-07-18 06:42:00,ONTIME,Public Works Department,Highway Maintenance,Work Hours-Loud Noise Complaints,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+358,2015-11-05 08:51:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Greater Mattapan,8.0,2121.0,Constituent Call
+359,2015-04-24 07:55:42,ONTIME,Inspectional Services,Environmental Services,Rodent Activity,Greater Mattapan,9.0,2126.0,Constituent Call
+360,2015-02-09 16:18:02,ONTIME,Public Works Department,Administrative & General Requests,Misc. Snow Complaint,Dorchester,7.0,2122.0,Constituent Call
+361,2015-10-02 14:05:22,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Beacon Hill,14.0,2114.0,Self Service
+362,2015-09-01 07:16:08,OVERDUE,Inspectional Services,Environmental Services,Rodent Activity,Dorchester,8.0,2122.0,Constituent Call
+363,2015-06-26 17:40:12,ONTIME,Public Works Department,Street Cleaning,CE Collection,Beacon Hill,3.0,2114.0,City Worker App
+364,2015-04-29 16:50:58,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Downtown / Financial District,3.0,2108.0,Self Service
+365,2015-08-04 10:05:00,ONTIME,Public Works Department,Highway Maintenance,Utility Casting Repair,Greater Mattapan,7.0,,City Worker App
+366,2015-02-11 12:01:31,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Allston / Brighton,15.0,2135.0,Constituent Call
+367,2015-10-30 17:28:49,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,South End,6.0,,Citizens Connect App
+368,2015-08-10 19:28:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Mission Hill,14.0,,Citizens Connect App
+369,2015-05-18 14:41:00,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,Jamaica Plain,11.0,2130.0,Constituent Call
+370,2015-01-05 16:05:10,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Hyde Park,10.0,2136.0,Constituent Call
+371,2015-08-17 10:50:00,ONTIME,Public Works Department,Highway Maintenance,News Boxes,Mission Hill,14.0,2120.0,City Worker App
+372,2015-04-21 14:58:17,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,West Roxbury,12.0,2132.0,Constituent Call
+373,2015-01-27 18:09:53,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Greater Mattapan,9.0,2124.0,Constituent Call
+374,2015-02-25 08:44:30,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Allston / Brighton,15.0,,Self Service
+375,2015-02-13 10:59:41,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Downtown / Financial District,6.0,2116.0,Self Service
+376,2015-02-08 11:10:49,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Charlestown,2.0,2129.0,Constituent Call
+377,2015-03-17 12:38:10,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,South Boston / South Boston Waterfront,5.0,,City Worker App
+378,2015-08-07 01:18:00,ONTIME,Mayor's 24 Hour Hotline,Notification,Notification,Roxbury,13.0,2119.0,Constituent Call
+379,2015-11-19 22:11:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,South Boston / South Boston Waterfront,13.0,,Employee Generated
+380,2015-07-01 16:00:02,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Dorchester,7.0,2124.0,Self Service
+381,2015-05-01 07:49:03,OVERDUE,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),South End,4.0,2118.0,Citizens Connect App
+382,2015-02-10 15:15:39,ONTIME,Public Works Department,Street Lights,General Lighting Request,Jamaica Plain,11.0,,Employee Generated
+383,2015-09-23 12:26:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Boston,3.0,2110.0,Constituent Call
+384,2015-11-10 09:03:26,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Roslindale,10.0,2131.0,Self Service
+385,2015-08-07 15:15:35,ONTIME,Public Works Department,Street Cleaning,CE Collection,Beacon Hill,14.0,2108.0,City Worker App
+386,2015-01-09 11:45:03,ONTIME,Public Works Department,Street Lights,General Lighting Request,Jamaica Plain,11.0,,Employee Generated
+387,2015-09-15 14:44:04,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),West Roxbury,12.0,2132.0,Employee Generated
+388,2015-03-09 11:19:15,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,7.0,2124.0,Constituent Call
+389,2015-04-26 10:54:32,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Greater Mattapan,8.0,2124.0,Constituent Call
+390,2015-11-19 09:45:18,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,South Boston / South Boston Waterfront,5.0,2127.0,Citizens Connect App
+391,2015-07-31 12:09:52,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair,East Boston,1.0,2128.0,Constituent Call
+392,2015-10-07 15:19:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Hyde Park,10.0,2136.0,Constituent Call
+393,2015-02-11 13:22:19,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Hyde Park,10.0,2136.0,Self Service
+394,2015-07-15 10:03:24,ONTIME,Disability Department,Disability,Call Log,,,,Constituent Call
+395,2015-09-17 07:01:00,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,Roslindale,10.0,2131.0,Employee Generated
+396,2015-09-23 15:28:18,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Greater Mattapan,9.0,2124.0,Self Service
+397,2015-02-16 10:06:50,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Roslindale,10.0,2131.0,Constituent Call
+398,2015-03-23 13:36:30,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Jamaica Plain,11.0,2130.0,City Worker App
+399,2015-09-19 17:00:00,OVERDUE,Transportation - Traffic Division,Signs & Signals,Sign Repair,Allston / Brighton,15.0,2135.0,Citizens Connect App
+400,2015-09-11 14:33:00,ONTIME,Inspectional Services,Health,Unsanitary Conditions - Food,Allston / Brighton,15.0,2134.0,Constituent Call
+401,2015-07-13 12:32:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Hyde Park,10.0,2136.0,Constituent Call
+402,2015-08-18 13:49:00,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Downtown / Financial District,3.0,,City Worker App
+403,2015-02-14 09:50:41,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,South End,6.0,2118.0,Constituent Call
+404,2015-02-13 07:02:58,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Jamaica Plain,10.0,2130.0,Constituent Call
+405,2015-05-14 08:53:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Charlestown,2.0,2129.0,Constituent Call
+406,2015-05-03 14:43:00,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Charlestown,2.0,,Citizens Connect App
+407,2015-03-30 06:18:24,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),Fenway / Kenmore / Audubon Circle / Longwood,14.0,2215.0,Citizens Connect App
+408,2015-03-17 09:50:57,ONTIME,Public Works Department,Street Lights,Street Light Outages,East Boston,1.0,,Employee Generated
+409,2015-04-12 19:37:08,OVERDUE,Public Works Department,Street Lights,Street Light Knock Downs,Hyde Park,10.0,,Constituent Call
+410,2015-02-09 16:20:13,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Fenway / Kenmore / Audubon Circle / Longwood,14.0,,Self Service
+411,2015-10-22 10:50:41,ONTIME,Public Works Department,Recycling,Sticker Request,Fenway / Kenmore / Audubon Circle / Longwood,14.0,2215.0,Self Service
+412,2015-04-10 11:25:57,ONTIME,Public Works Department,Highway Maintenance,Highway Maintenance,Roslindale,10.0,2132.0,Employee Generated
+413,2015-01-23 10:29:55,ONTIME,Transportation - Traffic Division,Signs & Signals,New Sign  Crosswalk or Pavement Marking,South End,6.0,,Constituent Call
+414,2015-02-09 17:13:34,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2119.0,Constituent Call
+415,2015-04-21 11:31:56,OVERDUE,Inspectional Services,Building,Plumbing,Downtown / Financial District,3.0,2113.0,Constituent Call
+416,2015-02-26 10:47:25,OVERDUE,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,13.0,2121.0,Constituent Call
+417,2015-02-17 22:11:53,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,7.0,,Constituent Call
+418,2015-01-07 12:03:19,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Greater Mattapan,9.0,2124.0,Constituent Call
+419,2015-05-08 08:40:00,OVERDUE,Inspectional Services,Building,Electrical,Roxbury,13.0,2118.0,Constituent Call
+420,2015-11-24 14:27:12,ONTIME,Public Works Department,Street Cleaning,CE Collection,Fenway / Kenmore / Audubon Circle / Longwood,14.0,2215.0,City Worker App
+421,2015-04-21 13:05:21,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Boston,3.0,2113.0,Citizens Connect App
+422,2015-02-09 16:02:09,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Jamaica Plain,11.0,,Constituent Call
+423,2015-10-30 19:25:22,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Dorchester,7.0,2125.0,Citizens Connect App
+424,2015-08-04 16:21:00,OVERDUE,Inspectional Services,Environmental Services,Abandoned Building,Roslindale,10.0,2131.0,Constituent Call
+425,2015-02-09 15:52:39,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2119.0,Constituent Call
+426,2015-06-22 17:08:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Traffic Signal Repair,Back Bay,14.0,,Constituent Call
+427,2015-11-23 09:19:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Roslindale,10.0,2131.0,Constituent Call
+428,2015-02-06 14:33:40,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,8.0,2121.0,Constituent Call
+429,2015-08-26 18:21:52,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Beacon Hill,14.0,2108.0,Citizens Connect App
+430,2015-02-08 06:59:46,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing (Emergency Responder),Hyde Park,10.0,2136.0,Constituent Call
+431,2015-10-22 12:08:32,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Hyde Park,10.0,2136.0,City Worker App
+432,2015-06-19 10:13:00,ONTIME,Inspectional Services,Housing,Bed Bugs,Downtown / Financial District,3.0,2110.0,Constituent Call
+433,2015-03-02 18:11:30,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Greater Mattapan,9.0,2124.0,Constituent Call
+434,2015-07-15 06:59:55,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Greater Mattapan,9.0,2126.0,City Worker App
+435,2015-09-30 16:33:26,ONTIME,Civil Rights,Call Inquiry,OCR Front Desk Interactions,,,,Constituent Call
+436,2015-01-30 12:49:57,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Beacon Hill,14.0,,Constituent Call
+437,2015-06-19 09:20:00,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Jamaica Plain,11.0,2130.0,Constituent Call
+438,2015-12-17 16:36:00,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Abandoned Vehicles,Jamaica Plain,11.0,2130.0,Constituent Call
+439,2015-09-22 22:52:00,ONTIME,Inspectional Services,Environmental Services,Rodent Activity,Beacon Hill,14.0,,Citizens Connect App
+440,2015-07-16 16:52:00,OVERDUE,Inspectional Services,Building,Work w/out Permit,Hyde Park,10.0,2136.0,Constituent Call
+441,2015-05-12 15:48:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Back Bay,14.0,2116.0,Constituent Call
+442,2015-02-04 08:15:36,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,East Boston,1.0,,Constituent Call
+443,2015-02-11 08:04:32,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Fenway / Kenmore / Audubon Circle / Longwood,14.0,2215.0,Self Service
+444,2015-02-13 15:45:30,ONTIME,Public Works Department,Administrative & General Requests,Misc. Snow Complaint,Jamaica Plain,11.0,2130.0,Constituent Call
+445,2015-07-07 08:59:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Roxbury,13.0,2119.0,Constituent Call
+446,2015-03-30 07:03:46,ONTIME,Public Works Department,Highway Maintenance,Utility Call-In,Hyde Park,10.0,2136.0,Constituent Call
+447,2015-05-29 07:55:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Greater Mattapan,9.0,2126.0,Constituent Call
+448,2015-04-07 15:20:21,OVERDUE,Public Works Department,Street Cleaning,Requests for Street Cleaning,Charlestown,2.0,2129.0,Employee Generated
+449,2015-07-27 12:13:28,ONTIME,Public Works Department,Highway Maintenance,PWD Graffiti,Roslindale,10.0,2136.0,City Worker App
+450,2015-11-08 10:02:25,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,South End,6.0,2116.0,Citizens Connect App
+451,2015-01-20 07:23:04,ONTIME,Public Works Department,Highway Maintenance,PWD Graffiti,East Boston,1.0,2128.0,City Worker App
+452,2015-10-08 09:50:00,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Abandoned Vehicles,Greater Mattapan,8.0,2121.0,Constituent Call
+453,2015-07-14 12:21:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Back Bay,14.0,2108.0,Employee Generated
+454,2015-02-04 08:16:30,OVERDUE,Inspectional Services,Building,Illegal Rooming House,Dorchester,8.0,2122.0,Constituent Call
+455,2015-09-18 14:35:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,South End,6.0,2116.0,Employee Generated
+456,2015-02-11 10:13:59,ONTIME,Transportation - Traffic Division,Signs & Signals,Missing Sign,Boston,3.0,2109.0,City Worker App
+457,2015-04-22 13:15:32,OVERDUE,Transportation - Traffic Division,Signs & Signals,Sign Repair,Mission Hill,13.0,,Constituent Call
+458,2015-02-04 14:15:25,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,West Roxbury,12.0,2467.0,Constituent Call
+459,2015-02-16 09:48:29,ONTIME,Mayor's 24 Hour Hotline,Notification,Notification,South Boston / South Boston Waterfront,5.0,2210.0,Constituent Call
+460,2015-12-02 07:06:13,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Mission Hill,13.0,,Citizens Connect App
+461,2015-12-05 19:25:50,ONTIME,Public Works Department,Street Cleaning,CE Collection,Back Bay,14.0,2116.0,City Worker App
+462,2015-02-23 16:14:47,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Boston,4.0,2111.0,Constituent Call
+463,2015-06-29 13:19:31,ONTIME,Inspectional Services,Housing,Unsatisfactory Living Conditions,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+464,2015-11-20 18:33:55,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston / South Boston Waterfront,5.0,2127.0,Citizens Connect App
+465,2015-02-09 00:28:08,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston / South Boston Waterfront,5.0,2127.0,Citizens Connect App
+466,2015-08-20 12:16:00,OVERDUE,Inspectional Services,Building,Work w/out Permit,Beacon Hill,14.0,2108.0,Constituent Call
+467,2015-02-02 17:41:30,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Allston / Brighton,15.0,2135.0,Constituent Call
+468,2015-11-10 17:28:00,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Back Bay,6.0,2116.0,Citizens Connect App
+469,2015-11-15 10:42:08,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston / South Boston Waterfront,0.0,2210.0,Citizens Connect App
+470,2015-02-20 13:44:59,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Roxbury,13.0,2119.0,Constituent Call
+471,2015-10-08 15:36:00,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,West Roxbury,12.0,2132.0,Constituent Call
+472,2015-02-09 16:58:59,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2125.0,Constituent Call
+473,2015-01-28 15:43:18,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2119.0,Constituent Call
+474,2015-04-23 14:31:37,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Equipment Repair,,,,Employee Generated
+475,2015-02-14 10:55:15,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2122.0,Constituent Call
+476,2015-08-17 08:58:20,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South End,6.0,2118.0,Citizens Connect App
+477,2015-11-17 06:58:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Allston / Brighton,15.0,2135.0,Constituent Call
+478,2015-01-28 17:31:04,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Back Bay,14.0,2115.0,Self Service
+479,2015-05-19 07:51:00,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,South Boston / South Boston Waterfront,5.0,2210.0,Constituent Call
+480,2015-09-13 13:07:17,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Allston / Brighton,15.0,2135.0,Citizens Connect App
+481,2015-09-09 06:41:00,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,South Boston / South Boston Waterfront,5.0,2127.0,Citizens Connect App
+482,2015-10-06 18:07:00,ONTIME,Boston Water & Sewer Commission,Fire Hydrant,Fire Hydrant,East Boston,1.0,2128.0,Constituent Call
+483,2015-10-01 14:11:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Dorchester,8.0,,City Worker App
+484,2015-02-17 15:59:10,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston / South Boston Waterfront,5.0,,Citizens Connect App
+485,2015-07-23 11:58:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Greater Mattapan,9.0,2124.0,Constituent Call
+486,2015-08-21 14:05:00,OVERDUE,Public Works Department,Recycling,Request for Recycling Cart,Brighton,15.0,2135.0,Self Service
+487,2015-03-30 17:06:28,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Abandoned Vehicles,Allston / Brighton,15.0,,Constituent Call
+488,2015-06-03 11:34:00,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),West Roxbury,12.0,2132.0,Constituent Call
+489,2015-01-28 18:50:07,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,,Constituent Call
+490,2015-01-16 13:01:49,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),Roslindale,10.0,2131.0,Employee Generated
+491,2015-02-03 17:17:04,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing (Emergency Responder),Dorchester,8.0,2122.0,Constituent Call
+492,2015-05-30 16:44:00,ONTIME,Mayor's 24 Hour Hotline,Notification,Notification,Roxbury,13.0,2119.0,Constituent Call
+493,2015-03-17 14:38:04,ONTIME,Public Works Department,Recycling,Sticker Request,Back Bay,14.0,2116.0,Constituent Call
+494,2015-08-08 22:00:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Dorchester,9.0,2124.0,Constituent Call
+495,2015-08-24 06:44:00,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Allston / Brighton,15.0,2135.0,Citizens Connect App
+496,2015-04-22 06:29:51,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,South End,6.0,2118.0,Citizens Connect App
+497,2015-04-03 16:19:07,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Downtown / Financial District,3.0,,Constituent Call
+498,2015-03-27 15:36:29,ONTIME,Inspectional Services,Environmental Services,Abandoned Building,South Boston,5.0,2127.0,Constituent Call
+499,2015-11-16 19:44:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Roxbury,13.0,2119.0,Citizens Connect App
+500,2015-05-07 08:51:00,OVERDUE,Inspectional Services,Building,Work w/out Permit,Roxbury,13.0,2125.0,Constituent Call
+501,2015-07-06 15:37:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Boston,14.0,2115.0,Constituent Call
+502,2015-11-27 18:51:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+503,2015-02-19 12:34:16,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Roxbury,13.0,,Self Service
+504,2015-03-25 12:15:24,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,South Boston / South Boston Waterfront,3.0,,Citizens Connect App
+505,2015-09-02 17:02:28,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Downtown / Financial District,3.0,2113.0,City Worker App
+506,2015-02-06 13:22:21,ONTIME,Public Works Department,Administrative & General Requests,Misc. Snow Complaint,Charlestown,2.0,,Constituent Call
+507,2015-02-05 12:58:44,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,8.0,,Constituent Call
+508,2015-08-09 13:01:00,OVERDUE,Property Management,Graffiti,Graffiti Removal,Fenway / Kenmore / Audubon Circle / Longwood,14.0,2215.0,Citizens Connect App
+509,2015-03-30 10:49:49,ONTIME,Inspectional Services,Environmental Services,Rodent Activity,Dorchester,7.0,2125.0,Self Service
+510,2015-03-23 12:53:19,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Downtown / Financial District,3.0,,Citizens Connect App
+511,2015-11-13 16:45:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,East Boston,1.0,2128.0,Constituent Call
+512,2015-08-29 13:44:43,ONTIME,Public Works Department,Street Cleaning,CE Collection,Downtown / Financial District,3.0,2109.0,City Worker App
+513,2015-02-04 07:52:26,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2121.0,Constituent Call
+514,2015-02-04 16:12:03,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Charlestown,2.0,2129.0,Self Service
+515,2015-02-06 12:48:45,ONTIME,Public Works Department,Administrative & General Requests,Misc. Snow Complaint,Hyde Park,10.0,,Constituent Call
+516,2015-10-09 08:26:00,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,Dorchester,9.0,2124.0,Constituent Call
+517,2015-04-09 09:59:35,ONTIME,Public Works Department,Street Cleaning,CE Collection,Dorchester,8.0,2122.0,City Worker App
+518,2015-03-19 10:21:51,OVERDUE,Inspectional Services,Environmental Services,Rodent Activity,Dorchester,13.0,2125.0,Constituent Call
+519,2015-06-01 08:08:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Back Bay,6.0,,Citizens Connect App
+520,2015-03-18 08:20:47,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Hyde Park,10.0,2136.0,City Worker App
+521,2015-09-16 18:33:32,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Roslindale,10.0,2131.0,Self Service
+522,2015-11-24 07:51:38,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Ground Maintenance,Roxbury,4.0,2118.0,Citizens Connect App
+523,2015-11-30 14:43:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+524,2015-08-15 03:25:00,ONTIME,Public Works Department,Highway Maintenance,Utility Call-In,Roslindale,10.0,2131.0,Constituent Call
+525,2015-11-16 13:09:17,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Dorchester,13.0,2125.0,Constituent Call
+526,2015-05-13 18:43:53,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Mission Hill,14.0,2120.0,Self Service
+527,2015-10-30 08:21:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Hyde Park,10.0,2136.0,Constituent Call
+528,2015-01-23 09:57:37,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Downtown / Financial District,3.0,2113.0,Constituent Call
+529,2015-04-24 17:37:38,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,Allston / Brighton,15.0,,Constituent Call
+530,2015-09-10 10:18:00,ONTIME,Mayor's 24 Hour Hotline,Needle Program,Needle Pickup,South Boston / South Boston Waterfront,13.0,2118.0,Constituent Call
+531,2015-06-20 15:45:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Allston / Brighton,15.0,2134.0,Citizens Connect App
+532,2015-11-27 10:18:42,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),West Roxbury,12.0,2467.0,Employee Generated
+533,2015-01-06 15:09:07,ONTIME,Inspectional Services,Building,Protection of Adjoining Property,Roxbury,13.0,2120.0,Constituent Call
+534,2015-02-15 18:46:28,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Hyde Park,10.0,2126.0,Constituent Call
+535,2015-04-28 20:11:47,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,South Boston,5.0,2127.0,Citizens Connect App
+536,2015-06-10 10:42:56,ONTIME,Inspectional Services,Building,Building Inspection Request,Roxbury,13.0,2119.0,Constituent Call
+537,2015-02-16 15:45:01,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2121.0,Constituent Call
+538,2015-10-26 11:46:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Downtown / Financial District,4.0,,City Worker App
+539,2015-03-17 17:58:19,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Downtown / Financial District,3.0,,Citizens Connect App
+540,2015-08-13 14:47:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+541,2015-03-23 09:06:31,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Greater Mattapan,9.0,2126.0,Constituent Call
+542,2015-06-21 15:39:00,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Equipment Repair,South End,4.0,,Constituent Call
+543,2015-04-14 19:02:52,OVERDUE,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),Allston / Brighton,15.0,2135.0,Citizens Connect App
+544,2015-02-05 18:55:49,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Downtown / Financial District,4.0,,Citizens Connect App
+545,2015-10-02 14:13:00,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Hyde Park,10.0,2136.0,Constituent Call
+546,2015-12-10 11:57:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,7.0,2125.0,Constituent Call
+547,2015-09-22 12:17:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Downtown / Financial District,4.0,2111.0,Citizens Connect App
+548,2015-06-08 20:31:00,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Parks Lighting/Electrical Issues,,,,Constituent Call
+549,2015-08-06 15:04:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2124.0,Constituent Call
+550,2015-04-02 13:21:33,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,Charlestown,2.0,2129.0,Constituent Call
+551,2015-02-11 22:29:30,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Charlestown,2.0,,Citizens Connect App
+552,2015-05-29 09:31:00,ONTIME,Public Works Department,Highway Maintenance,Highway Maintenance,Downtown / Financial District,3.0,,Constituent Call
+553,2015-09-15 10:06:00,ONTIME,Inspectional Services,Building,Building Inspection Request,Downtown / Financial District,3.0,2109.0,Constituent Call
+554,2015-03-06 12:32:43,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Back Bay,14.0,,City Worker App
+555,2015-08-17 09:08:00,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Ground Maintenance,West Roxbury,12.0,2132.0,Constituent Call
+556,2015-10-06 09:07:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Mission Hill,14.0,2115.0,Constituent Call
+557,2015-08-17 11:46:46,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),South Boston / South Boston Waterfront,5.0,2127.0,Employee Generated
+558,2015-02-13 13:43:26,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Hyde Park,10.0,2126.0,Constituent Call
+559,2015-09-30 14:11:00,ONTIME,Inspectional Services,Housing,Squalid Living Conditions,Dorchester,7.0,2122.0,Constituent Call
+560,2015-09-23 16:24:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+561,2015-04-28 10:35:53,ONTIME,Disability Department,Disability,Call Log,,,,Constituent Call
+562,2015-02-16 18:02:45,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Allston / Brighton,15.0,2135.0,Citizens Connect App
+563,2015-03-07 15:22:06,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,9.0,2124.0,Constituent Call
+564,2015-10-21 11:43:52,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,South End,6.0,2116.0,City Worker App
+565,2015-03-10 10:52:39,ONTIME,Mayor's 24 Hour Hotline,Notification,Notification,Hyde Park,10.0,2136.0,Constituent Call
+566,2015-09-09 07:40:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Beacon Hill,3.0,2114.0,Employee Generated
+567,2015-08-19 17:03:48,ONTIME,Public Works Department,Recycling,Sticker Request,Jamaica Plain,11.0,2130.0,Self Service
+568,2015-03-17 11:47:58,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Jamaica Plain,11.0,2130.0,Constituent Call
+569,2015-12-10 16:54:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Roxbury,8.0,,Employee Generated
+570,2015-02-07 15:57:29,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston / South Boston Waterfront,5.0,2127.0,Citizens Connect App
+571,2015-07-08 09:33:00,ONTIME,Public Works Department,Recycling,Sticker Request,East Boston,1.0,2128.0,Constituent Call
+572,2015-03-23 15:10:47,ONTIME,Property Management,Graffiti,Graffiti Removal,Dorchester,7.0,2122.0,Constituent Call
+573,2015-01-09 16:54:39,OVERDUE,Inspectional Services,Building,Building Inspection Request,Dorchester,7.0,2125.0,Constituent Call
+574,2015-06-02 17:27:00,ONTIME,Property Management,Graffiti,Graffiti Removal,East Boston,1.0,2128.0,Citizens Connect App
+575,2015-03-23 13:11:34,OVERDUE,Public Works Department,Street Lights,Street Light Outages,Roxbury,13.0,2121.0,Constituent Call
+576,2015-06-26 13:57:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Downtown / Financial District,6.0,2116.0,Citizens Connect App
+577,2015-12-15 16:59:38,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Allston / Brighton,15.0,2135.0,Citizens Connect App
+578,2015-02-02 12:16:53,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,8.0,2124.0,Citizens Connect App
+579,2015-02-17 19:03:07,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,7.0,2125.0,Constituent Call
+580,2015-08-04 08:10:00,ONTIME,Inspectional Services,Building,Contractors Complaint,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+581,2015-02-02 17:58:21,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,7.0,2124.0,Constituent Call
+582,2015-05-26 18:57:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Greater Mattapan,8.0,2124.0,Constituent Call
+583,2015-07-27 16:04:00,ONTIME,Public Works Department,Recycling,Sticker Request,West Roxbury,12.0,2132.0,Constituent Call
+584,2015-02-18 12:16:08,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,9.0,,Constituent Call
+585,2015-09-27 19:09:21,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,South Boston / South Boston Waterfront,5.0,2127.0,Citizens Connect App
+586,2015-08-19 11:04:52,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Dorchester,13.0,2121.0,City Worker App
+587,2015-10-06 10:05:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Back Bay,3.0,2114.0,Constituent Call
+588,2015-02-07 16:04:53,OVERDUE,Public Works Department,Highway Maintenance,Contractor Complaints,Hyde Park,10.0,2136.0,Constituent Call
+589,2015-09-30 09:19:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Traffic Signal Inspection,Jamaica Plain,11.0,,Constituent Call
+590,2015-08-27 08:09:56,ONTIME,Inspectional Services,Health,Food Alert - Unconfirmed,Jamaica Plain,11.0,2130.0,Constituent Call
+591,2015-06-19 14:20:29,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),Jamaica Plain,11.0,2130.0,Citizens Connect App
+592,2015-08-25 15:32:59,ONTIME,Public Works Department,Recycling,Sticker Request,Dorchester,7.0,2122.0,Self Service
+593,2015-12-12 03:42:22,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Downtown / Financial District,3.0,,City Worker App
+594,2015-08-28 08:01:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Allston / Brighton,15.0,,Citizens Connect App
+595,2015-05-29 21:54:00,OVERDUE,Parks & Recreation Department,Park Maintenance & Safety,Parks Lighting/Electrical Issues,,,,Constituent Call
+596,2015-08-26 13:18:00,ONTIME,Transportation - Traffic Division,Traffic Management & Engineering,Requests for Traffic Signal Studies or Reviews,Roxbury,13.0,,Constituent Call
+597,2015-12-28 14:05:00,ONTIME,Public Works Department,Recycling,Sticker Request,West Roxbury,12.0,2132.0,Constituent Call
+598,2015-09-17 18:27:00,OVERDUE,Parks & Recreation Department,Park Maintenance & Safety,Equipment Repair,Boston,6.0,2116.0,Citizens Connect App
+599,2015-07-17 15:14:00,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,Roxbury,13.0,2119.0,Constituent Call
+600,2015-12-06 13:45:52,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Ground Maintenance,Boston,14.0,2115.0,Citizens Connect App
+601,2015-08-12 10:46:00,OVERDUE,Public Works Department,Street Cleaning,Requests for Street Cleaning,Mission Hill,14.0,2120.0,Constituent Call
+602,2015-05-29 10:39:56,ONTIME,Public Works Department,Administrative & General Requests,No-Tow Complaint Confirmation,,,,Self Service
+603,2015-07-30 08:27:44,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Dorchester,7.0,2122.0,Self Service
+604,2015-05-07 11:50:15,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Roxbury,13.0,2119.0,City Worker App
+605,2015-09-14 05:42:42,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,Roxbury,11.0,2119.0,Self Service
+606,2015-10-30 13:57:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,South End,6.0,2116.0,Constituent Call
+607,2015-07-01 11:29:57,ONTIME,Transportation - Traffic Division,Signs & Signals,Missing Sign,Allston / Brighton,15.0,,City Worker App
+608,2015-07-14 13:34:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Charlestown,2.0,2129.0,Constituent Call
+609,2015-05-13 19:05:43,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,South Boston / South Boston Waterfront,5.0,2127.0,Self Service
+610,2015-04-21 12:46:51,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Roslindale,10.0,2131.0,City Worker App
+611,2015-02-18 21:06:46,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,,Citizens Connect App
+612,2015-02-25 23:47:26,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Greater Mattapan,9.0,2124.0,Citizens Connect App
+613,2015-10-19 09:54:47,ONTIME,Public Works Department,Highway Maintenance,PWD Graffiti,Fenway / Kenmore / Audubon Circle / Longwood,14.0,,Citizens Connect App
+614,2015-08-11 15:55:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Traffic Signal Inspection,South End,4.0,,Constituent Call
+615,2015-05-28 10:34:00,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Allston / Brighton,15.0,2135.0,City Worker App
+616,2015-11-14 17:52:00,ONTIME,Public Works Department,Highway Maintenance,Utility Call-In,Beacon Hill,14.0,,Constituent Call
+617,2015-02-18 12:12:53,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Charlestown,2.0,,Constituent Call
+618,2015-03-19 14:09:27,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,West Roxbury,12.0,2132.0,Constituent Call
+619,2015-02-08 14:37:35,ONTIME,Transportation - Traffic Division,Administrative & General Requests,Transportation General Request,East Boston,1.0,2128.0,Constituent Call
+620,2015-12-15 14:27:00,ONTIME,Public Works Department,Highway Maintenance,Highway Maintenance,Back Bay,6.0,,Employee Generated
+621,2015-07-17 10:19:17,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair (Internal),Jamaica Plain,11.0,2130.0,Employee Generated
+622,2015-11-24 11:30:00,OVERDUE,Inspectional Services,Building,Unsafe Dangerous Conditions,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+623,2015-07-20 13:40:06,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Allston / Brighton,15.0,,Self Service
+624,2015-08-12 20:45:10,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Dorchester,7.0,2124.0,Self Service
+625,2015-02-09 13:19:46,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2119.0,Constituent Call
+626,2015-08-26 05:09:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,,,,Employee Generated
+627,2015-09-02 19:45:31,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Roslindale,10.0,,Self Service
+628,2015-06-30 13:28:46,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,Downtown / Financial District,3.0,2113.0,Self Service
+629,2015-03-18 08:14:24,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),West Roxbury,12.0,2132.0,Employee Generated
+630,2015-08-12 17:58:48,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,East Boston,1.0,,City Worker App
+631,2015-03-30 11:28:05,OVERDUE,Public Works Department,Recycling,Recycling Cart Return,Charlestown,2.0,2129.0,Constituent Call
+632,2015-08-21 10:17:00,OVERDUE,Parks & Recreation Department,Park Maintenance & Safety,Equipment Repair,Jamaica Plain,13.0,2121.0,Employee Generated
+633,2015-09-28 16:23:00,OVERDUE,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),Dorchester,7.0,2124.0,Citizens Connect App
+634,2015-08-12 11:11:00,ONTIME,Inspectional Services,Housing,Mice Infestation - Residential,Downtown / Financial District,3.0,2109.0,Constituent Call
+635,2015-05-18 08:49:49,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Roslindale,10.0,2131.0,Citizens Connect App
+636,2015-01-26 10:22:13,ONTIME,Inspectional Services,Housing,Heat - Excessive  Insufficient,Roxbury,4.0,2118.0,Constituent Call
+637,2015-02-24 18:22:23,ONTIME,Inspectional Services,Health,Unsanitary Conditions - Establishment,Downtown / Financial District,4.0,2111.0,Constituent Call
+638,2015-12-02 10:57:56,ONTIME,Public Works Department,Recycling,Recycling Cart Return,Charlestown,2.0,2129.0,City Worker App
+639,2015-03-09 19:40:45,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Jamaica Plain,11.0,2130.0,Citizens Connect App
+640,2015-12-08 09:30:57,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),South End,6.0,2116.0,Employee Generated
+641,2015-03-23 21:12:24,OVERDUE,Property Management,Graffiti,Graffiti Removal,South End,6.0,2116.0,Constituent Call
+642,2015-11-19 12:14:00,ONTIME,Inspectional Services,Building,Zoning,Downtown / Financial District,4.0,,Constituent Call
+643,2015-03-31 12:44:24,OVERDUE,Inspectional Services,Building,Electrical,Greater Mattapan,8.0,2121.0,Constituent Call
+644,2015-03-26 23:18:37,OVERDUE,Public Works Department,Street Lights,Street Light Outages,Jamaica Plain,11.0,2130.0,Citizens Connect App
+645,2015-06-18 12:20:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Greater Mattapan,9.0,2126.0,Constituent Call
+646,2015-07-17 14:25:52,ONTIME,Public Works Department,Street Cleaning,CE Collection,Back Bay,14.0,2215.0,City Worker App
+647,2015-03-16 08:47:42,ONTIME,Public Works Department,Administrative & General Requests,Public Works General Request,Charlestown,2.0,2129.0,Constituent Call
+648,2015-09-16 09:04:00,ONTIME,Inspectional Services,Building,Working Beyond Hours,West Roxbury,12.0,2132.0,Constituent Call
+649,2015-02-16 18:21:37,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2119.0,Constituent Call
+650,2015-06-28 14:09:00,ONTIME,Property Management,Graffiti,Graffiti Removal,South End,6.0,2118.0,Citizens Connect App
+651,2015-01-23 12:16:49,ONTIME,Property Management,Graffiti,Graffiti Removal,Mission Hill,11.0,2130.0,Citizens Connect App
+652,2015-08-18 17:34:00,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Abandoned Vehicles,South Boston / South Boston Waterfront,5.0,,Citizens Connect App
+653,2015-11-03 15:52:15,ONTIME,Public Works Department,Street Cleaning,CE Collection,Downtown / Financial District,3.0,2108.0,City Worker App
+654,2015-03-24 09:45:09,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,Charlestown,2.0,2129.0,Constituent Call
+655,2015-03-09 19:20:37,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Beacon Hill,14.0,2108.0,Constituent Call
+656,2015-01-30 15:16:57,OVERDUE,Public Works Department,Highway Maintenance,Empty Litter Basket,South End,6.0,,Citizens Connect App
+657,2015-08-26 08:28:02,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),West Roxbury,12.0,2132.0,Employee Generated
+658,2015-03-03 07:21:50,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Ground Maintenance,,,,Constituent Call
+659,2015-12-09 07:32:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,South End,6.0,2116.0,Employee Generated
+660,2015-02-24 10:34:51,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Greater Mattapan,9.0,2124.0,Constituent Call
+661,2015-10-06 07:33:00,OVERDUE,Transportation - Traffic Division,Signs & Signals,Traffic Signal Inspection,Downtown / Financial District,3.0,2108.0,Self Service
+662,2015-03-13 14:57:55,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),West Roxbury,12.0,2132.0,Employee Generated
+663,2015-12-20 18:33:09,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,West Roxbury,12.0,2132.0,Self Service
+664,2015-10-08 13:55:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+665,2015-07-24 19:05:51,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Allston / Brighton,15.0,2134.0,Self Service
+666,2015-10-14 08:25:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Mission Hill,11.0,2120.0,Constituent Call
+667,2015-02-12 10:24:34,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Hyde Park,10.0,2136.0,Constituent Call
+668,2015-08-11 23:21:57,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),West Roxbury,12.0,2132.0,Citizens Connect App
+669,2015-02-10 16:56:54,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,8.0,,Self Service
+670,2015-02-04 08:49:51,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,South End,6.0,2118.0,Constituent Call
+671,2015-08-26 09:49:00,ONTIME,Mayor's 24 Hour Hotline,Employee & General Comments,General Comments For An Employee,Dorchester,7.0,,Constituent Call
+672,2015-06-15 09:12:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Roslindale,10.0,2131.0,Constituent Call
+673,2015-01-27 15:19:38,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2119.0,Constituent Call
+674,2015-10-02 08:58:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Downtown / Financial District,4.0,2111.0,Constituent Call
+675,2015-09-24 14:27:00,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Abandoned Vehicles,West Roxbury,12.0,2132.0,Citizens Connect App
+676,2015-08-31 10:14:00,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,Back Bay,6.0,,Constituent Call
+677,2015-07-24 11:59:00,ONTIME,Mayor's 24 Hour Hotline,Employee & General Comments,General Comments For An Employee,Mission Hill,14.0,2115.0,Constituent Call
+678,2015-02-17 08:16:02,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2120.0,Citizens Connect App
+679,2015-10-13 16:00:00,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Greater Mattapan,9.0,2124.0,Constituent Call
+680,2015-11-04 17:01:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,8.0,2122.0,Constituent Call
+681,2015-06-05 10:56:03,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),West Roxbury,12.0,,Employee Generated
+682,2015-09-29 07:36:00,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,Downtown / Financial District,3.0,,Citizens Connect App
+683,2015-02-16 10:30:06,ONTIME,Public Works Department,Administrative & General Requests,Misc. Snow Complaint,Roxbury,13.0,2119.0,Constituent Call
+684,2015-02-06 19:10:32,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,7.0,2124.0,Citizens Connect App
+685,2015-11-12 11:53:30,ONTIME,Mayor's 24 Hour Hotline,Employee & General Comments,General Comments For a Program or Policy,,,,Constituent Call
+686,2015-03-13 10:02:10,ONTIME,Public Works Department,Street Cleaning,CE Collection,South Boston / South Boston Waterfront,5.0,2127.0,City Worker App
+687,2015-07-01 14:10:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Jamaica Plain,11.0,2130.0,Constituent Call
+688,2015-08-27 11:30:22,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Greater Mattapan,13.0,2121.0,City Worker App
+689,2015-03-17 12:37:27,ONTIME,Public Works Department,Highway Maintenance,Roadway Repair,South End,6.0,2118.0,Constituent Call
+690,2015-09-30 11:20:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,West Roxbury,12.0,2467.0,Constituent Call
+691,2015-10-20 10:40:46,ONTIME,Public Works Department,Highway Maintenance,PWD Graffiti,Fenway / Kenmore / Audubon Circle / Longwood,14.0,,Citizens Connect App
+692,2015-11-08 07:15:11,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,Dorchester,7.0,2124.0,City Worker App
+693,2015-11-28 15:54:00,OVERDUE,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,East Boston,1.0,2128.0,Constituent Call
+694,2015-05-19 08:12:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Hyde Park,10.0,2136.0,Constituent Call
+695,2015-04-27 12:54:46,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Allston / Brighton,15.0,2135.0,Self Service
+696,2015-03-03 08:45:12,ONTIME,Mayor's 24 Hour Hotline,Notification,Notification,Roxbury,13.0,2121.0,Constituent Call
+697,2015-06-24 14:17:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,8.0,2122.0,Constituent Call
+698,2015-02-08 09:37:18,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,11.0,2119.0,Constituent Call
+699,2015-05-26 09:10:00,ONTIME,Public Works Department,Street Cleaning,CE Collection,Dorchester,8.0,2124.0,City Worker App
+700,2015-05-04 16:07:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,Beacon Hill,14.0,2108.0,Constituent Call
+701,2015-12-18 09:19:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,South End,6.0,2118.0,Constituent Call
+702,2015-05-26 09:56:00,ONTIME,Mayor's 24 Hour Hotline,Employee & General Comments,General Comments For a Program or Policy,,,,Constituent Call
+703,2015-06-04 16:04:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2124.0,Constituent Call
+704,2015-08-20 14:30:17,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),East Boston,1.0,2128.0,Employee Generated
+705,2015-07-24 16:00:09,ONTIME,Public Works Department,Street Cleaning,CE Collection,Beacon Hill,14.0,2114.0,City Worker App
+706,2015-07-30 10:12:00,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Hyde Park,10.0,2136.0,Constituent Call
+707,2015-11-24 15:34:04,ONTIME,Public Works Department,Street Cleaning,CE Collection,Beacon Hill,14.0,2108.0,City Worker App
+708,2015-03-30 10:55:58,ONTIME,Inspectional Services,Building,Electrical,Downtown / Financial District,4.0,2111.0,Constituent Call
+709,2015-02-21 10:21:27,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Fenway / Kenmore / Audubon Circle / Longwood,14.0,2115.0,Citizens Connect App
+710,2015-06-20 15:43:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Allston / Brighton,15.0,2134.0,Citizens Connect App
+711,2015-11-08 19:20:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Jamaica Plain,11.0,2130.0,Citizens Connect App
+712,2015-01-12 12:13:02,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Roslindale,10.0,2131.0,Constituent Call
+713,2015-11-13 17:06:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,8.0,,Constituent Call
+714,2015-04-03 10:51:40,OVERDUE,Inspectional Services,Building,Work w/out Permit,Dorchester,9.0,2124.0,Constituent Call
+715,2015-12-23 14:12:58,ONTIME,Civil Rights,Call Inquiry,OCR Front Desk Interactions,,,,Constituent Call
+716,2015-10-28 10:44:00,ONTIME,Inspectional Services,Building,Working Beyond Hours,South End,4.0,2118.0,Constituent Call
+717,2015-05-08 17:53:29,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,Dorchester,7.0,2125.0,Citizens Connect App
+718,2015-05-22 13:27:42,ONTIME,Public Works Department,Recycling,Recycling Cart Return,Beacon Hill,3.0,2114.0,City Worker App
+719,2015-03-24 18:17:42,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,South End,6.0,,City Worker App
+720,2015-02-10 13:00:49,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Ground Maintenance,Dorchester,8.0,,Constituent Call
+721,2015-12-01 09:41:00,ONTIME,Inspectional Services,Building,Electrical,Downtown / Financial District,3.0,2109.0,Constituent Call
+722,2015-07-21 06:40:35,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Greater Mattapan,9.0,2126.0,City Worker App
+723,2015-05-08 02:59:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,,,,Employee Generated
+724,2015-02-02 12:55:03,OVERDUE,Inspectional Services,Building,Building Inspection Request,South End,4.0,2118.0,Constituent Call
+725,2015-09-15 14:56:27,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),Hyde Park,10.0,2136.0,Employee Generated
+726,2015-09-29 09:53:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,9.0,2124.0,Constituent Call
+727,2015-11-24 13:53:31,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Hyde Park,10.0,2136.0,City Worker App
+728,2015-07-01 13:36:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,West Roxbury,12.0,2132.0,Constituent Call
+729,2015-01-20 07:19:42,ONTIME,Public Works Department,Highway Maintenance,PWD Graffiti,Hyde Park,10.0,,City Worker App
+730,2015-09-04 08:03:00,OVERDUE,Transportation - Traffic Division,Signs & Signals,Traffic Signal Inspection,Downtown / Financial District,4.0,,Constituent Call
+731,2015-05-13 08:53:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,8.0,2121.0,Constituent Call
+732,2015-09-24 15:47:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,South End,6.0,,Citizens Connect App
+733,2015-08-24 16:04:00,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Equipment Repair,Greater Mattapan,13.0,2130.0,Employee Generated
+734,2015-10-03 09:02:00,ONTIME,Public Works Department,Highway Maintenance,Utility Call-In,East Boston,1.0,2128.0,Constituent Call
+735,2015-03-03 04:01:02,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Jamaica Plain,11.0,2130.0,Self Service
+736,2015-05-10 20:05:48,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Jamaica Plain,11.0,2119.0,Citizens Connect App
+737,2015-04-10 14:27:05,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Boston,14.0,2215.0,Citizens Connect App
+738,2015-05-07 16:56:55,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Dorchester,5.0,2125.0,Self Service
+739,2015-12-13 13:12:20,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2122.0,Self Service
+740,2015-02-03 14:35:23,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,East Boston,1.0,2128.0,Constituent Call
+741,2015-04-01 00:32:29,ONTIME,Public Works Department,Street Lights,Street Light Outages,,,,Employee Generated
+742,2015-12-16 11:27:00,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Roxbury,13.0,2125.0,Constituent Call
+743,2015-07-08 13:44:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Roslindale,10.0,2131.0,Constituent Call
+744,2015-02-21 12:30:08,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2125.0,Self Service
+745,2015-02-20 16:42:29,OVERDUE,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2124.0,Constituent Call
+746,2015-10-28 16:21:25,ONTIME,Civil Rights,Call Inquiry,OCR Front Desk Interactions,,,,Constituent Call
+747,2015-03-09 19:14:08,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,8.0,2125.0,Self Service
+748,2015-02-12 13:55:15,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Ground Maintenance,,,,Constituent Call
+749,2015-06-28 13:58:00,ONTIME,Parks & Recreation Department,Trees,Tree Emergencies,Jamaica Plain,10.0,2130.0,Constituent Call
+750,2015-07-24 12:01:47,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,South End,4.0,2118.0,Citizens Connect App
+751,2015-03-18 07:58:41,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),Roslindale,10.0,2131.0,City Worker App
+752,2015-06-23 08:44:00,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Ground Maintenance,East Boston,1.0,2128.0,Constituent Call
+753,2015-08-28 13:30:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Jamaica Plain,10.0,2130.0,Constituent Call
+754,2015-04-08 13:16:02,ONTIME,Public Works Department,Street Cleaning,CE Collection,Downtown / Financial District,3.0,2108.0,City Worker App
+755,2015-10-28 12:30:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Roslindale,10.0,2131.0,Constituent Call
+756,2015-02-06 10:07:16,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Back Bay,14.0,2115.0,Constituent Call
+757,2015-09-18 09:30:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,West Roxbury,12.0,2132.0,Citizens Connect App
+758,2015-02-25 22:01:02,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,South Boston / South Boston Waterfront,5.0,,Constituent Call
+759,2015-12-05 08:05:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,5.0,2125.0,Constituent Call
+760,2015-02-19 17:49:35,OVERDUE,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Roxbury,13.0,2119.0,Constituent Call
+761,2015-12-15 15:24:12,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Allston / Brighton,15.0,,Citizens Connect App
+762,2015-09-11 11:53:09,ONTIME,Civil Rights,Call Inquiry,OCR Front Desk Interactions,,,,Constituent Call
+763,2015-04-01 12:50:15,OVERDUE,Public Works Department,Street Lights,Street Light Outages,Jamaica Plain,11.0,2130.0,Constituent Call
+764,2015-03-17 14:19:22,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Downtown / Financial District,4.0,2111.0,City Worker App
+765,2015-07-10 14:38:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,Fenway / Kenmore / Audubon Circle / Longwood,14.0,2215.0,Employee Generated
+766,2015-11-18 08:40:00,ONTIME,Inspectional Services,Building,Building Inspection Request,West Roxbury,12.0,2132.0,Constituent Call
+767,2015-01-20 07:13:21,ONTIME,Public Works Department,Highway Maintenance,PWD Graffiti,Mission Hill,14.0,2120.0,City Worker App
+768,2015-01-26 13:27:41,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Dorchester,7.0,2122.0,Constituent Call
+769,2015-09-30 15:27:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Mission Hill,11.0,2120.0,Citizens Connect App
+770,2015-02-27 12:16:01,OVERDUE,Inspectional Services,Building,Unsafe Dangerous Conditions,Fenway / Kenmore / Audubon Circle / Longwood,13.0,,Constituent Call
+771,2015-01-27 17:57:21,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South End,4.0,,Constituent Call
+772,2015-05-19 17:45:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Allston / Brighton,15.0,2135.0,Constituent Call
+773,2015-02-16 09:53:28,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston / South Boston Waterfront,5.0,,Constituent Call
+774,2015-07-14 11:09:08,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Downtown / Financial District,3.0,2113.0,City Worker App
+775,2015-08-31 16:29:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Downtown / Financial District,3.0,,Citizens Connect App
+776,2015-09-01 14:00:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,West Roxbury,12.0,2132.0,Constituent Call
+777,2015-06-22 12:28:08,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair,Charlestown,2.0,2129.0,Employee Generated
+778,2015-01-12 11:54:21,ONTIME,Inspectional Services,Health,Food Alert - Unconfirmed,Fenway / Kenmore / Audubon Circle / Longwood,14.0,2215.0,Constituent Call
+779,2015-01-05 23:45:29,ONTIME,Public Works Department,Recycling,Sticker Request,East Boston,1.0,2128.0,Self Service
+780,2015-07-09 07:09:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Downtown / Financial District,3.0,2113.0,Constituent Call
+781,2015-04-14 13:02:44,OVERDUE,Public Works Department,Street Lights,Upgrade Existing Lighting,Hyde Park,10.0,2131.0,Constituent Call
+782,2015-08-22 13:35:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,Mission Hill,14.0,,Citizens Connect App
+783,2015-02-09 06:47:13,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,7.0,,Constituent Call
+784,2015-04-09 21:17:53,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,South End,4.0,2118.0,Citizens Connect App
+785,2015-10-12 11:10:22,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,Dorchester,8.0,2122.0,Citizens Connect App
+786,2015-11-18 10:42:00,OVERDUE,Transportation - Traffic Division,Signs & Signals,Sign Repair,Jamaica Plain,11.0,2130.0,City Worker App
+787,2015-09-22 10:48:00,OVERDUE,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),Dorchester,8.0,2122.0,Constituent Call
+788,2015-01-20 07:22:00,ONTIME,Public Works Department,Highway Maintenance,PWD Graffiti,Dorchester,7.0,2125.0,City Worker App
+789,2015-02-10 12:35:25,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Allston / Brighton,15.0,2135.0,Constituent Call
+790,2015-04-15 07:48:51,ONTIME,Public Works Department,Street Lights,General Lighting Request,Dorchester,7.0,2122.0,Constituent Call
+791,2015-08-25 15:35:39,ONTIME,Mayor's 24 Hour Hotline,Employee & General Comments,General Comments For An Employee,Downtown / Financial District,3.0,,Constituent Call
+792,2015-02-08 07:23:32,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Roslindale,10.0,2131.0,Constituent Call
+793,2015-03-24 08:23:31,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Jamaica Plain,11.0,2130.0,City Worker App
+794,2015-10-29 12:45:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Roslindale,10.0,2131.0,City Worker App
+795,2015-02-15 10:03:24,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,8.0,2121.0,Constituent Call
+796,2015-08-12 18:27:15,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,South End,6.0,2118.0,Self Service
+797,2015-03-13 10:30:47,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),Roslindale,10.0,2131.0,Employee Generated
+798,2015-06-19 04:20:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,,,,Employee Generated
+799,2015-12-21 15:48:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Greater Mattapan,8.0,2121.0,Constituent Call
+800,2015-01-28 10:00:42,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,East Boston,1.0,2128.0,Constituent Call
+801,2015-10-17 15:22:31,ONTIME,Public Works Department,Street Cleaning,CE Collection,Beacon Hill,3.0,2114.0,City Worker App
+802,2015-05-05 07:51:00,OVERDUE,Transportation - Traffic Division,Signs & Signals,New Sign  Crosswalk or Pavement Marking,Roxbury,13.0,,Constituent Call
+803,2015-05-22 08:15:00,ONTIME,Inspectional Services,Environmental Services,Rodent Activity,Allston / Brighton,15.0,2135.0,Self Service
+804,2015-05-10 10:55:06,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,Fenway / Kenmore / Audubon Circle / Longwood,14.0,,Citizens Connect App
+805,2015-12-22 10:51:46,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Downtown / Financial District,3.0,,Citizens Connect App
+806,2015-01-14 15:20:08,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),East Boston,1.0,,Employee Generated
+807,2015-06-18 13:24:00,OVERDUE,Inspectional Services,Building,Illegal Rooming House,Dorchester,8.0,2125.0,Constituent Call
+808,2015-01-10 06:55:34,ONTIME,Transportation - Traffic Division,Signs & Signals,Traffic Signal Repair,Roxbury,13.0,,Constituent Call
+809,2015-03-03 09:15:57,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Jamaica Plain,11.0,2130.0,Citizens Connect App
+810,2015-09-25 02:40:00,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Abandoned Vehicles,Downtown / Financial District,3.0,,Citizens Connect App
+811,2015-04-06 07:07:47,ONTIME,Parks & Recreation Department,Trees,Tree Emergencies,Roslindale,10.0,2132.0,Constituent Call
+812,2015-10-13 09:54:00,ONTIME,Public Works Department,Recycling,Sticker Request,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+813,2015-09-11 08:12:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,South Boston / South Boston Waterfront,5.0,2210.0,Constituent Call
+814,2015-04-07 12:41:33,OVERDUE,Inspectional Services,Building,Illegal Rooming House,East Boston,1.0,2128.0,Constituent Call
+815,2015-03-11 12:34:35,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,West Roxbury,12.0,2132.0,Self Service
+816,2015-08-29 13:34:00,OVERDUE,Inspectional Services,Building,Exceeding Terms of Permit,Boston,5.0,2210.0,Constituent Call
+817,2015-01-22 13:02:27,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Dorchester,8.0,2121.0,City Worker App
+818,2015-03-30 17:56:34,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,Allston / Brighton,15.0,2135.0,Citizens Connect App
+819,2015-12-29 08:57:00,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,West Roxbury,12.0,,Constituent Call
+820,2015-01-16 10:10:31,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Dorchester,7.0,2125.0,City Worker App
+821,2015-10-05 16:41:41,ONTIME,Public Works Department,Street Lights,Street Light Knock Downs,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+822,2015-02-26 10:46:22,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Roxbury,13.0,,City Worker App
+823,2015-11-04 08:39:00,ONTIME,Public Works Department,Street Lights,General Lighting Request,Charlestown,2.0,2129.0,Employee Generated
+824,2015-02-10 09:52:01,ONTIME,Transportation - Traffic Division,Signs & Signals,Traffic Signal Repair,South Boston / South Boston Waterfront,5.0,,Constituent Call
+825,2015-01-30 15:08:37,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,East Boston,1.0,2128.0,Self Service
+826,2015-08-02 11:28:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Downtown / Financial District,3.0,2110.0,Citizens Connect App
+827,2015-11-13 16:07:14,ONTIME,Public Works Department,Recycling,Sticker Request,Allston / Brighton,15.0,2135.0,Self Service
+828,2015-01-09 16:31:32,ONTIME,Public Works Department,Street Lights,Street Light Outages,Allston / Brighton,15.0,2135.0,Constituent Call
+829,2015-11-08 09:32:00,OVERDUE,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),Dorchester,8.0,2124.0,City Worker App
+830,2015-01-28 17:47:05,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,8.0,,Constituent Call
+831,2015-04-25 16:27:17,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,Back Bay,14.0,2116.0,Citizens Connect App
+832,2015-06-16 09:26:31,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Greater Mattapan,8.0,,City Worker App
+833,2015-08-26 12:01:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,Roxbury,13.0,2119.0,Employee Generated
+834,2015-01-22 13:15:44,ONTIME,Public Works Department,Recycling,Recycling Cart Inquiry,Mission Hill,11.0,2120.0,Constituent Call
+835,2015-08-21 09:28:00,ONTIME,Public Works Department,Street Lights,General Lighting Request,Back Bay,3.0,,Employee Generated
+836,2015-05-04 12:02:00,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Downtown / Financial District,3.0,2109.0,Constituent Call
+837,2015-12-30 23:58:00,ONTIME,Public Works Department,Street Lights,Street Light Knock Downs,South End,4.0,2118.0,Constituent Call
+838,2015-02-11 07:40:09,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Hyde Park,9.0,,Constituent Call
+839,2015-01-31 09:17:55,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South End,6.0,,Citizens Connect App
+840,2015-04-28 10:17:12,OVERDUE,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Greater Mattapan,9.0,2126.0,Constituent Call
+841,2015-03-06 09:12:44,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Back Bay,6.0,2199.0,City Worker App
+842,2015-04-03 14:01:22,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Hyde Park,10.0,2131.0,Constituent Call
+843,2015-04-15 14:14:19,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Jamaica Plain,11.0,2130.0,Constituent Call
+844,2015-11-20 15:24:00,OVERDUE,Inspectional Services,Building,Work w/out Permit,Charlestown,2.0,2129.0,Constituent Call
+845,2015-08-24 15:04:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Beacon Hill,14.0,2114.0,Employee Generated
+846,2015-08-06 08:15:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Greater Mattapan,9.0,,Citizens Connect App
+847,2015-01-30 10:27:24,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,West Roxbury,12.0,,Constituent Call
+848,2015-02-02 18:42:22,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Allston / Brighton,15.0,2135.0,Constituent Call
+849,2015-04-18 13:44:35,OVERDUE,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),South End,4.0,2118.0,Citizens Connect App
+850,2015-05-16 14:35:48,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Jamaica Plain,11.0,2130.0,Self Service
+851,2015-04-06 17:07:04,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,Jamaica Plain,11.0,2130.0,Constituent Call
+852,2015-02-06 11:27:16,ONTIME,Public Works Department,Highway Maintenance,Litter Basket Maintenance,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+853,2015-12-04 11:30:00,ONTIME,Public Works Department,Highway Maintenance,Contractor Complaints,South End,6.0,2116.0,Constituent Call
+854,2015-03-06 10:54:19,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,West Roxbury,10.0,2132.0,Constituent Call
+855,2015-04-13 07:29:51,ONTIME,Public Works Department,Highway Maintenance,Utility Call-In,Hyde Park,10.0,2136.0,Constituent Call
+856,2015-01-06 13:46:58,ONTIME,Transportation - Traffic Division,Signs & Signals,Traffic Signal Repair,West Roxbury,12.0,,Constituent Call
+857,2015-09-25 17:28:18,ONTIME,Public Works Department,Street Cleaning,CE Collection,Beacon Hill,14.0,2114.0,City Worker App
+858,2015-02-04 16:16:01,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Hyde Park,10.0,2136.0,Constituent Call
+859,2015-03-31 08:24:13,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Greater Mattapan,9.0,2124.0,City Worker App
+860,2015-07-06 13:04:01,ONTIME,Inspectional Services,Environmental Services,Trash on Vacant Lot,Jamaica Plain,11.0,2130.0,Constituent Call
+861,2015-11-17 14:20:02,OVERDUE,Transportation - Traffic Division,Signs & Signals,Traffic Signal Inspection,Downtown / Financial District,3.0,,Citizens Connect App
+862,2015-11-12 10:34:00,ONTIME,Public Works Department,Highway Maintenance,Sidewalk Repair,Dorchester,7.0,2125.0,Employee Generated
+863,2015-04-06 14:56:30,OVERDUE,Transportation - Traffic Division,Signs & Signals,Sign Repair,Hyde Park,10.0,2131.0,Constituent Call
+864,2015-06-22 09:35:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,West Roxbury,12.0,2132.0,Constituent Call
+865,2015-06-13 20:30:00,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Ground Maintenance,Roxbury,13.0,,Constituent Call
+866,2015-02-12 13:01:02,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South End,6.0,2118.0,Citizens Connect App
+867,2015-03-12 10:43:56,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),West Roxbury,12.0,2132.0,Employee Generated
+868,2015-12-30 12:19:00,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,5.0,,Constituent Call
+869,2015-08-15 08:13:00,ONTIME,Public Works Department,Highway Maintenance,Work Hours-Loud Noise Complaints,Jamaica Plain,11.0,,Constituent Call
+870,2015-08-12 09:47:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,South End,6.0,2118.0,Citizens Connect App
+871,2015-03-09 12:56:38,OVERDUE,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),Dorchester,8.0,2122.0,City Worker App
+872,2015-11-25 10:55:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Greater Mattapan,9.0,2126.0,Constituent Call
+873,2015-08-24 13:47:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Allston / Brighton,15.0,2134.0,Constituent Call
+874,2015-04-15 09:38:25,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Beacon Hill,14.0,,Constituent Call
+875,2015-08-20 14:57:30,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Dorchester,8.0,2125.0,City Worker App
+876,2015-03-09 09:27:18,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,7.0,2122.0,Constituent Call
+877,2015-12-03 13:27:23,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,South Boston / South Boston Waterfront,5.0,2127.0,Self Service
+878,2015-03-14 20:25:07,ONTIME,Public Works Department,Street Lights,Street Light Outages,Jamaica Plain,11.0,,Citizens Connect App
+879,2015-12-02 22:56:45,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Dorchester,8.0,2124.0,Citizens Connect App
+880,2015-06-10 11:18:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,East Boston,1.0,2128.0,Constituent Call
+881,2015-05-11 04:08:00,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Downtown / Financial District,3.0,2113.0,Citizens Connect App
+882,2015-06-25 18:40:00,ONTIME,Inspectional Services,Building,Building Inspection Request,Downtown / Financial District,3.0,2109.0,Constituent Call
+883,2015-01-27 17:34:05,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roslindale,10.0,2131.0,Citizens Connect App
+884,2015-08-25 10:23:00,OVERDUE,Public Works Department,Highway Maintenance,Contractor Complaints,Dorchester,7.0,2126.0,Constituent Call
+885,2015-09-16 17:27:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Traffic Signal Inspection,Downtown / Financial District,3.0,,Constituent Call
+886,2015-01-06 16:06:06,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Greater Mattapan,8.0,2121.0,Constituent Call
+887,2015-09-15 15:29:00,ONTIME,Inspectional Services,Building,Building Inspection Request,Hyde Park,10.0,2136.0,Constituent Call
+888,2015-11-05 10:08:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,8.0,2122.0,Constituent Call
+889,2015-07-02 10:43:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Greater Mattapan,8.0,2124.0,City Worker App
+890,2015-03-03 13:23:01,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Charlestown,2.0,,City Worker App
+891,2015-10-07 14:50:57,ONTIME,Transportation - Traffic Division,Traffic Management & Engineering,Requests for Traffic Signal Studies or Reviews,Beacon Hill,3.0,,Employee Generated
+892,2015-02-17 16:50:47,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Fenway / Kenmore / Audubon Circle / Longwood,13.0,2115.0,Constituent Call
+893,2015-03-24 08:52:36,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Dorchester,7.0,2122.0,City Worker App
+894,2015-11-24 08:24:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,Dorchester,8.0,2124.0,Constituent Call
+895,2015-02-10 14:12:33,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Hyde Park,10.0,,Constituent Call
+896,2015-07-23 11:46:00,OVERDUE,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Abandoned Vehicles,Dorchester,7.0,2124.0,Constituent Call
+897,2015-08-29 08:33:48,ONTIME,Public Works Department,Street Cleaning,CE Collection,Beacon Hill,14.0,2114.0,City Worker App
+898,2015-01-27 18:34:26,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,7.0,2126.0,Constituent Call
+899,2015-10-24 17:53:02,ONTIME,Public Works Department,Street Cleaning,CE Collection,Back Bay,14.0,2116.0,City Worker App
+900,2015-07-16 17:02:31,ONTIME,Inspectional Services,Housing,Maintenance Complaint - Residential,Dorchester,8.0,2122.0,Constituent Call
+901,2015-04-30 09:15:18,OVERDUE,Inspectional Services,Building,Plumbing,Allston / Brighton,14.0,2134.0,Self Service
+902,2015-06-29 09:42:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Allston / Brighton,15.0,2134.0,City Worker App
+903,2015-02-10 17:50:56,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Greater Mattapan,9.0,2126.0,Constituent Call
+904,2015-05-17 16:51:00,OVERDUE,Public Works Department,Street Lights,Street Light Outages,Fenway / Kenmore / Audubon Circle / Longwood,14.0,2215.0,Citizens Connect App
+905,2015-03-11 11:28:27,ONTIME,Boston Water & Sewer Commission,Sidewalk Cover / Manhole,Sidewalk Cover / Manhole,East Boston,1.0,2128.0,Constituent Call
+906,2015-02-26 09:35:58,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Greater Mattapan,9.0,2124.0,Constituent Call
+907,2015-05-20 13:16:00,ONTIME,Public Works Department,Street Lights,General Lighting Request,Back Bay,14.0,2108.0,Employee Generated
+908,2015-09-04 12:33:07,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Downtown / Financial District,3.0,2113.0,Citizens Connect App
+909,2015-05-28 08:53:00,ONTIME,Public Works Department,Highway Maintenance,Empty Litter Basket,South End,6.0,2118.0,Citizens Connect App
+910,2015-10-12 14:56:52,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Back Bay,14.0,2116.0,Citizens Connect App
+911,2015-06-15 13:12:00,ONTIME,Public Works Department,Administrative & General Requests,Public Works General Request,Beacon Hill,14.0,2114.0,Constituent Call
+912,2015-04-13 15:12:33,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Roxbury,13.0,2119.0,Constituent Call
+913,2015-11-19 08:13:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Dorchester,7.0,,Citizens Connect App
+914,2015-08-24 06:06:07,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup SS,Greater Mattapan,9.0,2126.0,Self Service
+915,2015-08-04 16:06:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Dorchester,7.0,2126.0,Constituent Call
+916,2015-08-18 10:52:00,ONTIME,Parks & Recreation Department,Trees,Tree Maintenance Requests,Jamaica Plain,11.0,2130.0,Constituent Call
+917,2015-10-16 15:35:00,ONTIME,Inspectional Services,Environmental Services,Rodent Activity,Dorchester,8.0,2124.0,Constituent Call
+918,2015-06-15 16:05:00,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Ground Maintenance,Roxbury,13.0,2119.0,Constituent Call
+919,2015-04-09 04:56:54,ONTIME,Public Works Department,Street Lights,Street Light Outages,,,,Employee Generated
+920,2015-08-27 19:38:00,OVERDUE,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),West Roxbury,12.0,2132.0,Constituent Call
+921,2015-10-14 18:22:00,ONTIME,Mayor's 24 Hour Hotline,Needle Program,Needle Pickup,Downtown / Financial District,4.0,,Citizens Connect App
+922,2015-01-17 14:45:38,ONTIME,Animal Control,Animal Issues,Animal Generic Request,Allston / Brighton,15.0,,Constituent Call
+923,2015-02-23 21:16:27,OVERDUE,Public Works Department,Highway Maintenance,Empty Litter Basket,Jamaica Plain,11.0,2130.0,Citizens Connect App
+924,2015-11-05 07:53:00,ONTIME,Public Works Department,Street Lights,General Lighting Request,Downtown / Financial District,3.0,2109.0,Employee Generated
+925,2015-12-07 11:56:00,OVERDUE,Transportation - Traffic Division,Signs & Signals,Missing Sign,Downtown / Financial District,3.0,,Constituent Call
+926,2015-11-07 10:45:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Sign Repair,Dorchester,7.0,,Citizens Connect App
+927,2015-03-30 15:46:18,ONTIME,Inspectional Services,Housing,Heat - Excessive  Insufficient,Roxbury,13.0,2119.0,Constituent Call
+928,2015-10-30 13:21:00,ONTIME,Boston Water & Sewer Commission,Administrative & General Requests,BWSC General Request,West Roxbury,12.0,2132.0,Constituent Call
+929,2015-07-30 16:45:41,ONTIME,Civil Rights,Call Inquiry,OCR Front Desk Interactions,,,,Constituent Call
+930,2015-03-17 10:17:37,OVERDUE,Inspectional Services,Building,Work w/out Permit,Downtown / Financial District,3.0,2113.0,Constituent Call
+931,2015-07-20 16:41:00,ONTIME,Inspectional Services,Environmental Services,Rodent Activity,Beacon Hill,14.0,,Self Service
+932,2015-02-27 13:39:35,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,7.0,2124.0,Self Service
+933,2015-05-08 07:24:00,ONTIME,Transportation - Traffic Division,Signs & Signals,Missing Sign,Downtown / Financial District,3.0,2108.0,City Worker App
+934,2015-07-23 10:52:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,Downtown / Financial District,4.0,,Citizens Connect App
+935,2015-08-18 20:15:00,ONTIME,Public Works Department,Street Lights,Street Light Outages,West Roxbury,12.0,,Citizens Connect App
+936,2015-02-14 11:10:07,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Hyde Park,10.0,,Constituent Call
+937,2015-11-27 19:07:31,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Downtown / Financial District,4.0,,Citizens Connect App
+938,2015-09-02 10:45:10,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),Downtown / Financial District,3.0,2114.0,Employee Generated
+939,2015-07-20 16:48:47,OVERDUE,Parks & Recreation Department,Park Maintenance & Safety,Parks Lighting/Electrical Issues,,,,Self Service
+940,2015-09-17 08:08:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Hyde Park,9.0,2126.0,Constituent Call
+941,2015-02-10 15:46:52,ONTIME,Public Works Department,Administrative & General Requests,Misc. Snow Complaint,Dorchester,7.0,2125.0,Constituent Call
+942,2015-06-23 08:44:00,OVERDUE,Inspectional Services,Building,Building Inspection Request,South End,6.0,2116.0,Constituent Call
+943,2015-02-27 08:56:49,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,13.0,2121.0,Constituent Call
+944,2015-08-18 13:28:36,ONTIME,Public Works Department,Highway Maintenance,Pothole Repair (Internal),Allston / Brighton,15.0,2135.0,Employee Generated
+945,2015-04-06 08:32:57,ONTIME,Inspectional Services,Building,Building Inspection Request,East Boston,1.0,2128.0,Constituent Call
+946,2015-04-07 20:26:00,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,South Boston / South Boston Waterfront,5.0,2127.0,Self Service
+947,2015-05-06 11:29:00,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Ground Maintenance,Roxbury,13.0,2119.0,Employee Generated
+948,2015-07-21 10:22:36,ONTIME,Mayor's 24 Hour Hotline,Abandoned Bicycle,Abandoned Bicycle,Downtown / Financial District,3.0,2109.0,City Worker App
+949,2015-07-20 14:09:00,ONTIME,Public Works Department,Recycling,Sticker Request,Greater Mattapan,9.0,2124.0,Constituent Call
+950,2015-05-14 03:42:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Allston / Brighton,15.0,,Citizens Connect App
+951,2015-04-30 12:56:37,ONTIME,Parks & Recreation Department,Park Maintenance & Safety,Ground Maintenance,,,,Employee Generated
+952,2015-11-22 11:22:07,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Parking Enforcement,Downtown / Financial District,4.0,,Citizens Connect App
+953,2015-01-20 07:14:31,ONTIME,Public Works Department,Highway Maintenance,PWD Graffiti,Mission Hill,14.0,2120.0,City Worker App
+954,2015-02-23 11:01:06,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Roxbury,13.0,,City Worker App
+955,2015-01-05 10:24:30,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Abandoned Vehicles,Dorchester,8.0,2124.0,Constituent Call
+956,2015-03-09 09:50:56,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Boston,3.0,2114.0,City Worker App
+957,2015-02-28 10:44:26,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,9.0,2124.0,Constituent Call
+958,2015-06-18 16:31:56,ONTIME,Civil Rights,Call Inquiry,OCR Front Desk Interactions,,,,Constituent Call
+959,2015-02-04 18:20:02,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Jamaica Plain,11.0,2130.0,Citizens Connect App
+960,2015-12-09 12:09:30,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Roxbury,13.0,,City Worker App
+961,2015-04-02 14:55:29,ONTIME,Public Works Department,Administrative & General Requests,Public Works General Request,South Boston / South Boston Waterfront,5.0,,Constituent Call
+962,2015-02-13 14:04:12,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Jamaica Plain,11.0,2130.0,Constituent Call
+963,2015-02-19 13:36:51,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Greater Mattapan,9.0,2126.0,Self Service
+964,2015-12-10 13:33:00,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,West Roxbury,12.0,2132.0,Constituent Call
+965,2015-01-28 09:16:18,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2121.0,Constituent Call
+966,2015-03-06 10:13:54,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Jamaica Plain,11.0,2130.0,City Worker App
+967,2015-01-18 08:39:42,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,South End,6.0,2118.0,City Worker App
+968,2015-09-19 18:22:20,ONTIME,Public Works Department,Recycling,Request for Recycling Cart,Allston / Brighton,15.0,2135.0,Self Service
+969,2015-03-17 15:14:31,ONTIME,Public Works Department,Sanitation,Schedule a Bulk Item Pickup,Greater Mattapan,9.0,2124.0,Constituent Call
+970,2015-02-09 21:21:57,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,7.0,2122.0,Constituent Call
+971,2015-05-09 14:20:00,ONTIME,Property Management,Graffiti,Graffiti Removal,Dorchester,7.0,,Citizens Connect App
+972,2015-05-12 10:43:00,ONTIME,Property Management,Graffiti,Graffiti Removal,South End,4.0,2118.0,Citizens Connect App
+973,2015-07-29 09:04:38,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,Dorchester,7.0,,Citizens Connect App
+974,2015-03-24 13:09:49,OVERDUE,Public Works Department,Highway Maintenance,Sidewalk Repair (Make Safe),South End,6.0,2116.0,Citizens Connect App
+975,2015-02-05 14:01:06,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Dorchester,5.0,2125.0,Citizens Connect App
+976,2015-03-20 20:02:01,ONTIME,Transportation - Traffic Division,Signs & Signals,Traffic Signal Repair,Downtown / Financial District,3.0,,Constituent Call
+977,2015-02-20 11:23:25,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Hyde Park,10.0,2136.0,Constituent Call
+978,2015-10-22 17:56:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Dorchester,7.0,2125.0,Constituent Call
+979,2015-03-25 13:04:28,OVERDUE,Public Works Department,Highway Maintenance,Request for Pothole Repair,Jamaica Plain,11.0,2130.0,City Worker App
+980,2015-05-18 16:06:39,ONTIME,Animal Control,Animal Issues,Animal Generic Request,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+981,2015-02-16 14:09:44,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South End,4.0,,Constituent Call
+982,2015-07-02 20:10:00,ONTIME,Public Works Department,Street Cleaning,Requests for Street Cleaning,Roslindale,10.0,,Constituent Call
+983,2015-09-23 12:13:00,ONTIME,Public Works Department,Highway Maintenance,Contractor Complaints,South Boston,5.0,2127.0,Constituent Call
+984,2015-05-04 07:07:00,ONTIME,Public Works Department,Street Cleaning,Pick up Dead Animal,Roxbury,13.0,2121.0,Constituent Call
+985,2015-02-03 15:48:48,ONTIME,Public Works Department,Street Cleaning,Request for Snow Plowing,Hyde Park,10.0,2136.0,Constituent Call
+986,2015-01-28 15:57:55,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,South Boston / South Boston Waterfront,5.0,2127.0,Constituent Call
+987,2015-08-14 12:52:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,West Roxbury,12.0,2132.0,Constituent Call
+988,2015-06-09 08:26:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Allston / Brighton,15.0,2135.0,Constituent Call
+989,2015-02-24 08:00:24,ONTIME,Transportation - Traffic Division,Enforcement & Abandoned Vehicles,Abandoned Vehicles,East Boston,1.0,,Constituent Call
+990,2015-02-02 16:12:48,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,West Roxbury,12.0,2132.0,Constituent Call
+991,2015-03-13 18:16:43,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Jamaica Plain,11.0,2130.0,Constituent Call
+992,2015-12-19 16:31:05,ONTIME,Public Works Department,Street Cleaning,CE Collection,Back Bay,14.0,2116.0,City Worker App
+993,2015-03-24 14:52:52,ONTIME,Mayor's 24 Hour Hotline,Notification,Notification,Greater Mattapan,9.0,2124.0,Constituent Call
+994,2015-12-03 11:22:00,ONTIME,Inspectional Services,Environmental Services,Rodent Activity,Back Bay,14.0,2116.0,Citizens Connect App
+995,2015-02-10 11:56:07,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Allston / Brighton,15.0,2135.0,Self Service
+996,2015-01-28 14:06:33,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Roxbury,13.0,2119.0,Constituent Call
+997,2015-06-15 10:51:00,ONTIME,Public Works Department,Sanitation,Missed Trash/Recycling/Yard Waste/Bulk Item,Beacon Hill,14.0,2108.0,Constituent Call
+998,2015-02-18 11:45:56,ONTIME,Public Works Department,Highway Maintenance,Request for Pothole Repair,Allston / Brighton,15.0,2135.0,City Worker App
+999,2015-02-18 09:55:12,OVERDUE,Public Works Department,Recycling,Request for Recycling Cart,Hyde Park,10.0,2136.0,City Worker App
+1000,2015-02-02 19:10:38,OVERDUE,Public Works Department,Street Cleaning,Request for Snow Plowing,Hyde Park,10.0,2136.0,Constituent Call
